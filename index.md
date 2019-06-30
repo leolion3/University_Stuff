@@ -1,5 +1,5 @@
-<h1>Welcome to the Website!</h1>
-<p> If you are looking for help, then you have come to the right place!</p>
+<h1>Wilkommen auf der Website!</h1>
+<p>Wenn du Hilfe brauchst mit deinen Hausaufgaben oder Klausuren, oder nur so gern ein paar lustige Sachen lernen willst, dann bist Du am richtigen Ort gelandet!</p>
 
 <h1>Medieninformatik 1</h1>
 
