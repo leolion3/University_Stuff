@@ -4,12 +4,13 @@
 <h1>Grundlagen der Medieninformatik 1</h1>
 
 <h1>Praktische Informatik 1</h1>
-<p> 
 
 <code>
-  test
-  </code>
+Suchst du alte Klasuren, alte Abgaben, oder ein bisschen Spass?
+ <ul>
+  <li>Klausuren</li>
+  <li>Abgaben</li>
+  <li>Spass!<li>
+  </ul>
+</code>
 
-
-
-</p>
