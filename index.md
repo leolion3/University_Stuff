@@ -5,12 +5,12 @@
 
 <h1>Praktische Informatik 1</h1>
 
-<code>
 Suchst du alte Klasuren, alte Abgaben, oder ein bisschen Spass?
- <ul>
+<ul>
   <li>Klausuren</li>
   <li>Abgaben</li>
-  <li>Spass!<li>
-  </ul>
+  <li>Spass!</li>
+</ul>
+  <code>
 </code>
 
