@@ -16,11 +16,16 @@ Suchst du alte Klasuren, alte Abgaben, oder ein bisschen Spass?
   <li>Beispiele</li>
 </ul>
 
-<h1>Apps, Spass, Etc...</h1>
+<h1>Sachen fuer DEINE Freizeit</h1>
+
+<ul>
+  <li>Coole Sachen mit der Windows SHELL</li>
+</ul>
+  
+<h1>Mehr von Mir</h1>
 
 Hier findest Du andere Sachen die ich in meiner Freizeit mache...
 
-<ul>
     <li>Password Generator App <a href="https://github.com/leolion3/App-Tutorial/tree/master/Password_Generator">(Github)</a>,<a href="https://play.google.com/store/apps/details?id=processing.test.password_generator">(Google Play)</a>
     <li><a href="https://www.YouTube.com/c/StrongLions">YouTube Channel (Tutorials und Weiteres...)</a></li>
 
