@@ -28,7 +28,7 @@ Suchst du alte Klasuren, alte Abgaben, oder ein bisschen Spass?
 Hier findest Du andere Sachen die ich in meiner Freizeit mache...
 
 <ul>
-    <li><img src="https://lh3.googleusercontent.com/w_qN0qkMH9B-XmVHDn4GDEFfaISZ3ItJuwahMIqq0BfqW-3_GtLsETiG6URyOy_vKA=s180-rw" width="25" height="25">Password Generator App <a href="https://github.com/leolion3/App-Tutorial/tree/master/Password_Generator">(Github)</a> <a href="https://play.google.com/store/apps/details?id=processing.test.password_generator">(Google Play)</a>
+    <li><img src="https://lh3.googleusercontent.com/w_qN0qkMH9B-XmVHDn4GDEFfaISZ3ItJuwahMIqq0BfqW-3_GtLsETiG6URyOy_vKA=s180-rw" width="18" height="18"> Password Generator App <a href="https://github.com/leolion3/App-Tutorial/tree/master/Password_Generator">(Github)</a> <a href="https://play.google.com/store/apps/details?id=processing.test.password_generator">(Google Play)</a>
     <li><a href="https://www.YouTube.com/c/StrongLions">YouTube Channel (Tutorials und Weiteres...)</a></li>
 
 
