@@ -20,6 +20,7 @@ Suchst du alte Klasuren, alte Abgaben, oder ein bisschen Spass?
 
 <ul>
   <li>Coole Sachen mit der Windows SHELL <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Github)</a>  <a href="https://drive.google.com/open?id=1cDz9L10VaqJztyQNCuqR0COdjwa4PIZL">(Google Drive)</a>  </li>
+  <img src="https://hackaday.com/wp-content/uploads/2019/06/the-new-windows-terminal-8gw0rxpmmpemkv-shot0005_featured.png?w=800">
 </ul>
   
 <h1>Mehr von Mir</h1>
