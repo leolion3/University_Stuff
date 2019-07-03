@@ -20,7 +20,7 @@ Suchst du alte Klasuren, oder ein paar Beispiele?
 <h1>Sachen für DEINE Freizeit</h1>
 
 <ul>
-  <li>Coole Sachen mit der Windows SHELL <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Github)</a>  <a href="https://drive.google.com/open?id=1cDz9L10VaqJztyQNCuqR0COdjwa4PIZL">(Google Drive)</a>  </li>
+  <li>Coole Sachen mit der Windows SHELL <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Github)</a>  <a href="https://drive.google.com/open?id=1cDz9L10VaqJztyQNCuqR0COdjwa4PIZL">(Google Drive)</a>  </li>
   </ul>
   <img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Shell.PNG?raw=true">
   
