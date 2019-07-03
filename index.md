@@ -13,7 +13,7 @@
 Suchst du alte Klasuren, alte Abgaben, oder ein bisschen Spass?
 <ul>
   <li><code>Klausuren</code></li>
-  <li><code>Beispiele/code></li>
+  <li><code>Beispiele</code></li>
 </ul>
 
 <h1>Sachen für DEINE Freizeit</h1>
