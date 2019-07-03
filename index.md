@@ -9,13 +9,13 @@
 </ul>
 
 <h1>Praktische Informatik 1</h1>
-  <code>
+
 Suchst du alte Klasuren, oder ein paar Beispiele?
 <ul>
   <li><code>Klausuren</code></li>
   <li><code>Beispiele</code></li>
 </ul>
-  </code>
+
 
 <h1>Sachen für DEINE Freizeit</h1>
 
