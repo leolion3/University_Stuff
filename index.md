@@ -12,7 +12,7 @@
 
 Suchst du alte Klasuren, oder ein paar Beispiele?
 <ul>
-  <li><code>Klausuren</code></li>
+  <li><code>Klausuren/Exams(English)</code><a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/2.%20Praktische%20Informatik%201/Exams">(Gitlab)</a></li>
   <li><code>Beispiele</code></li>
 </ul>
 
