@@ -8,11 +8,11 @@
   <li>Beispiele</li>
 </ul>
 
-<h1>Praktische Informatik 1</h1>
+<h1>Praktische Informatik 1 & Exams</h1>
 
 Suchst du alte Klasuren, oder ein paar Beispiele?
 <ul>
-  <li><code>Klausuren/Exams(English)</code><a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/2.%20Praktische%20Informatik%201/Exams">(Gitlab)</a></li>
+  <li><code>Exams/Klausuren (all in English)</code><a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/2.%20Praktische%20Informatik%201/Exams">(Gitlab)</a></li>
   <li><code>Beispiele</code></li>
 </ul>
 
