@@ -21,9 +21,12 @@ Suchst du alte Klasuren, oder ein paar Beispiele?
 
 <ul>
   <li>Windows Shell (BASIC) Introduction <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Github)</a></li>
+  <li> Python Reverse Shell <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python%20Reverse%20Shell">(Github)</a> </li>
+  <li> Password Self-defending USB </li>
+  <li> (Windows) 3-Line PC crasher </li> 
   </ul>
   <img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Shell.PNG?raw=true">
-<ul> <li> Python Reverse Shell <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python%20Reverse%20Shell">(Github)</a> </li></ul>
+
 <h1>Mehr von Mir</h1>
 
 Hier findest Du andere Sachen die ich in meiner Freizeit mache...
