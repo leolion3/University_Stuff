@@ -22,7 +22,7 @@ Suchst du alte Klasuren, oder ein paar Beispiele?
 
 Windows SHELL:
 <ul><li>Windows Shell (BASIC) Introduction <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Github)</a></li>
-  <li> Password Self-defending USB </li>
+  <li> Password Self-defending USB <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL/2.%20Password-Protected%20Self-Defending%20USB">(Github)</a> </li>
   <li> (Windows) 3-Line PC crasher </li> </ul>
   Python:
   <ul> <li> Python Reverse Shell <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python%20Reverse%20Shell">(Github)</a> </li>
