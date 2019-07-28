@@ -20,12 +20,12 @@ Suchst du alte Klasuren, oder ein paar Beispiele?
 <h1>Sachen für DEINE Freizeit</h1>
 
 <ul>
-  WINDOWS SHELL:
+  Windows SHELL:
   <li>Windows Shell (BASIC) Introduction <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Github)</a></li>
   <li> Password Self-defending USB </li>
-  <li> (Windows) 3-Line PC crasher </li> 
-  PYTHON:
-  <li> Python Reverse Shell <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python%20Reverse%20Shell">(Github)</a> </li>
+  <li> (Windows) 3-Line PC crasher </li> </ul>
+  Python:
+  <ul> <li> Python Reverse Shell <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python%20Reverse%20Shell">(Github)</a> </li>
   </ul>
   <img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Shell.PNG?raw=true">
 
