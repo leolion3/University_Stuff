@@ -20,12 +20,12 @@ Suchst du alte Klasuren, oder ein paar Beispiele?
 <h1>Sachen für DEINE Freizeit</h1>
 
 
-Windows SHELL:
-<ul><li>Windows Shell (BASIC) Introduction <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Github)</a></li>
+Windows BATCH:
+<ul><li>Windows BATCH (BASIC) Introduction <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Github)</a></li>
   <li> Password-Protected Self-Defending USB <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL/2.%20Password-Protected%20Self-Defending%20USB">(Github)</a> </li>
   <li> 3-Line PC crasher <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL/3.%20PC%20CRASHER">(Github) </a> </li> </ul>
   Python:
-  <ul> <li> Python Reverse Shell <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python%20Reverse%20Shell">(Github)</a> </li>
+  <ul> <li> Reverse Shell <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python%20Reverse%20Shell">(Github)</a> </li>
   </ul>
   <img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Shell.PNG?raw=true">
 
