@@ -1,6 +1,8 @@
 ========================================WELCOME========================================
 
-Welcome my fellow students! In this rep you can find all kinds of stuff to help you with
+Welcome my fellow students!
+
+In this rep you can find all kinds of stuff to help you with
 your courses and exams, and some stuff from which you can learn additional things that
 no one will teach you.
 
