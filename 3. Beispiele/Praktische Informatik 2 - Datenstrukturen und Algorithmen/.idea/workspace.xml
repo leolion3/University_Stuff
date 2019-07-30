@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa751e61-9ffd-4729-ac7b-41177c4d861c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MergeSort/MargeSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSort/MergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Praktische Informatik 2 Klausurvorbereitungsaufgaben/BinarySearch/BinarySearchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Praktische Informatik 2 Klausurvorbereitungsaufgaben/BinarySearch/BinarySearchTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Praktische Informatik 2 Klausurvorbereitungsaufgaben/DoubleChainedList/ExerciseList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Praktische Informatik 2 Klausurvorbereitungsaufgaben/DoubleChainedList/ExerciseList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Praktische Informatik 2 Klausurvorbereitungsaufgaben/DoubleChainedList/ExerciseListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearch/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearch/BinarySearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/BinarySearchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DoubleChainedList/ExerciseList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DoubleChainedList/ExerciseListTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BinarySearch/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
@@ -56,11 +50,39 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MergeSort/MergeSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#72#96#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MergeSort/MargeSortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#102#111#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BinarySearch/BinarySearchTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="544">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#162#171#0" expanded="true" />
@@ -87,31 +109,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
               <caret line="38" selection-start-line="38" selection-end-line="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/QuickSort/QuickSortTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#146#155#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/QuickSort/LomutoQuickSortTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -168,6 +165,8 @@
         <option value="$PROJECT_DIR$/src/LinearSearch/LinearSearchTest.java" />
         <option value="$PROJECT_DIR$/src/BinarySearch/BinarySearchTest.java" />
         <option value="$PROJECT_DIR$/src/BinarySearch/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/MergeSort/MargeSortTest.java" />
+        <option value="$PROJECT_DIR$/src/MergeSort/MergeSort.java" />
       </list>
     </option>
   </component>
@@ -197,6 +196,12 @@
               <item name="Praktische Informatik 2 - Datenstrukturen und Algorithmen" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="KlausurVorbereitung" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Praktische Informatik 2 - Datenstrukturen und Algorithmen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MergeSort" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -224,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BinarySearchTest">
+  <component name="RunManager" selected="JUnit.MargeSortTest.testMergeSort">
     <configuration name="BinarySearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Praktische Informatik 2 Klausurvorbereitungsaufgaben" />
       <extension name="coverage">
@@ -251,22 +256,6 @@
       <option name="PACKAGE_NAME" value="BinarySearch" />
       <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearchTest" />
       <option name="METHOD_NAME" value="testFastBinarySearch" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExerciseListTest.testAddRemoveContains" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Praktische Informatik 2 Klausurvorbereitungsaufgaben" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DoubleChainedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DoubleChainedList" />
-      <option name="MAIN_CLASS_NAME" value="DoubleChainedList.ExerciseListTest" />
-      <option name="METHOD_NAME" value="testAddRemoveContains" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -303,13 +292,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MargeSortTest.testMergeSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Praktische Informatik 2 Klausurvorbereitungsaufgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MergeSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MergeSort" />
+      <option name="MAIN_CLASS_NAME" value="MergeSort.MargeSortTest" />
+      <option name="METHOD_NAME" value="testMergeSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MargeSortTest.testMergeSort" />
         <item itemvalue="JUnit.BinarySearchTest" />
         <item itemvalue="JUnit.BinarySearchTest.testFastBinarySearch" />
         <item itemvalue="JUnit.LinearSearchTest.testLinearSearch" />
         <item itemvalue="JUnit.LomutoQuickSortTest" />
-        <item itemvalue="JUnit.ExerciseListTest.testAddRemoveContains" />
       </list>
     </recent_temporary>
   </component>
@@ -327,21 +332,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BinarySearchTest_testFastBinarySearch - 2019.07.30 at 17h 00m 07s.xml">
-      <configuration name="BinarySearchTest.testFastBinarySearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinarySearchTest_testFastBinarySearch - 2019.07.30 at 17h 01m 09s.xml">
-      <configuration name="BinarySearchTest.testFastBinarySearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinarySearchTest_testFastBinarySearch - 2019.07.30 at 17h 01m 25s.xml">
-      <configuration name="BinarySearchTest.testFastBinarySearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinarySearchTest_testFastBinarySearch - 2019.07.30 at 17h 03m 53s.xml">
-      <configuration name="BinarySearchTest.testFastBinarySearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinarySearchTest_testFastBinarySearch - 2019.07.30 at 17h 04m 47s.xml">
-      <configuration name="BinarySearchTest.testFastBinarySearch" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BinarySearchTest_testFastBinarySearch - 2019.07.30 at 17h 05m 34s.xml">
       <configuration name="BinarySearchTest.testFastBinarySearch" configurationId="JUnit" />
     </history-entry>
@@ -357,12 +347,27 @@
     <history-entry file="BinarySearchTest_testFastBinarySearch - 2019.07.30 at 17h 15m 00s.xml">
       <configuration name="BinarySearchTest.testFastBinarySearch" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BinarySearchTest_testFastBinarySearch - 2019.07.30 at 17h 15m 52s.xml">
+      <configuration name="BinarySearchTest.testFastBinarySearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinarySearchTest - 2019.07.30 at 17h 16m 07s.xml">
+      <configuration name="BinarySearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MargeSortTest_testMergeSort - 2019.07.30 at 20h 45m 16s.xml">
+      <configuration name="MargeSortTest.testMergeSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MargeSortTest_testMergeSort - 2019.07.30 at 20h 48m 25s.xml">
+      <configuration name="MargeSortTest.testMergeSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MargeSortTest_testMergeSort - 2019.07.30 at 20h 48m 46s.xml">
+      <configuration name="MargeSortTest.testMergeSort" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21162046" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21162046" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -371,7 +376,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290461" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290461" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -517,8 +522,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinarySearch/BinarySearchTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="544">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#162#171#0" expanded="true" />
@@ -530,6 +535,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MergeSort/MargeSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#102#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MergeSort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#72#96#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
