@@ -37,14 +37,25 @@ public class ExerciseList<E> implements List<E>{
      * The element's existence has already been checked
      * @param node - the node to be removed */
     private void unlink(Node<E> node){
-        //Implement this
+        Node<E> pred = node.getPrevious();
+        Node<E> succ = node.getNext();
+        pred.setNext(succ);
+        succ.setPrevious(pred);
+        length--;
     }
 
     /** Add an Node node before the Node after
      * @param node - the node to be added
      * @param after - the node before which to insert the new Node */
     private void insertBefore(Node<E> node,Node<E> after){
-
+        Node<E> pred = after.getPrevious();
+        if(pred!=null) {
+            pred.setNext(node);
+        }
+        node.setNext(after);
+        node.setPrevious(pred);
+        after.setPrevious(node);
+        length++;
     }
 
     @Override
