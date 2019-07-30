@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa751e61-9ffd-4729-ac7b-41177c4d861c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearch/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearch/LinearSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/BinarySearchTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DoubleChainedList/ExerciseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoubleChainedList/ExerciseList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InsertionSort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InsertionSort/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InsertionSort/InsertionSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InsertionSort/InsertionSortTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,10 +42,32 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BinarySearch/BinarySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="59" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BinarySearch/BinarySearchTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#162#171#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LinearSearch/LinearSearchTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+            <state relative-caret-position="221">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#119#128#0" expanded="true" />
@@ -113,18 +131,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/InsertionSort/InsertionSortTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -154,6 +160,8 @@
         <option value="$PROJECT_DIR$/src/DoubleChainedList/ExerciseList.java" />
         <option value="$PROJECT_DIR$/src/LinearSearch/LinearSearch.java" />
         <option value="$PROJECT_DIR$/src/LinearSearch/LinearSearchTest.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearch/BinarySearchTest.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearch/BinarySearch.java" />
       </list>
     </option>
   </component>
@@ -163,7 +171,9 @@
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -185,7 +195,7 @@
               <item name="KlausurVorbereitung" type="b2602c69:ProjectViewProjectNode" />
               <item name="Praktische Informatik 2 - Datenstrukturen und Algorithmen" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LinearSearch" type="462c0819:PsiDirectoryNode" />
+              <item name="BinarySearch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -214,18 +224,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LinearSearchTest.testLinearSearch">
-    <configuration name="BubbleSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BinarySearchTest">
+    <configuration name="BinarySearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Praktische Informatik 2 Klausurvorbereitungsaufgaben" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BubbleSort.*" />
+          <option name="PATTERN" value="BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="BubbleSort" />
-      <option name="MAIN_CLASS_NAME" value="BubbleSort.BubbleSortTest" />
+      <option name="PACKAGE_NAME" value="BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearchTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearchTest.testFastBinarySearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Praktische Informatik 2 Klausurvorbereitungsaufgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearchTest" />
+      <option name="METHOD_NAME" value="testFastBinarySearch" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -277,28 +303,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Praktische Informatik 2 Klausurvorbereitungsaufgaben" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="QuickSort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="QuickSort" />
-      <option name="MAIN_CLASS_NAME" value="QuickSort.QuickSortTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BinarySearchTest" />
+        <item itemvalue="JUnit.BinarySearchTest.testFastBinarySearch" />
         <item itemvalue="JUnit.LinearSearchTest.testLinearSearch" />
         <item itemvalue="JUnit.LomutoQuickSortTest" />
         <item itemvalue="JUnit.ExerciseListTest.testAddRemoveContains" />
-        <item itemvalue="JUnit.BubbleSortTest" />
-        <item itemvalue="JUnit.QuickSortTest" />
       </list>
     </recent_temporary>
   </component>
@@ -316,42 +327,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="InsertionSortTest_testInsertionSort - 2019.07.30 at 00h 17m 22s.xml">
-      <configuration name="InsertionSortTest.testInsertionSort" configurationId="JUnit" />
+    <history-entry file="BinarySearchTest_testFastBinarySearch - 2019.07.30 at 16h 25m 58s.xml">
+      <configuration name="BinarySearchTest.testFastBinarySearch" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InsertionSortTest_testInsertionSort - 2019.07.30 at 13h 22m 07s.xml">
-      <configuration name="InsertionSortTest.testInsertionSort" configurationId="JUnit" />
+    <history-entry file="BinarySearchTest_testFastBinarySearch - 2019.07.30 at 16h 27m 07s.xml">
+      <configuration name="BinarySearchTest.testFastBinarySearch" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QuickSortTest - 2019.07.30 at 13h 25m 30s.xml">
-      <configuration name="QuickSortTest" configurationId="JUnit" />
+    <history-entry file="BinarySearchTest_testFastBinarySearch - 2019.07.30 at 16h 27m 25s.xml">
+      <configuration name="BinarySearchTest.testFastBinarySearch" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LomutoQuickSortTest - 2019.07.30 at 13h 25m 34s.xml">
-      <configuration name="LomutoQuickSortTest" configurationId="JUnit" />
+    <history-entry file="BinarySearchTest_testFastBinarySearch - 2019.07.30 at 16h 27m 50s.xml">
+      <configuration name="BinarySearchTest.testFastBinarySearch" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BubbleSortTest - 2019.07.30 at 13h 25m 39s.xml">
-      <configuration name="BubbleSortTest" configurationId="JUnit" />
+    <history-entry file="BinarySearchTest_testFastBinarySearch - 2019.07.30 at 16h 29m 09s.xml">
+      <configuration name="BinarySearchTest.testFastBinarySearch" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExerciseListTest_testAddRemoveContains - 2019.07.30 at 13h 25m 44s.xml">
-      <configuration name="ExerciseListTest.testAddRemoveContains" configurationId="JUnit" />
+    <history-entry file="BinarySearchTest_testFastBinarySearch - 2019.07.30 at 16h 29m 29s.xml">
+      <configuration name="BinarySearchTest.testFastBinarySearch" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExerciseListTest_testAddRemoveContains - 2019.07.30 at 13h 28m 02s.xml">
-      <configuration name="ExerciseListTest.testAddRemoveContains" configurationId="JUnit" />
+    <history-entry file="BinarySearchTest_testFastBinarySearch - 2019.07.30 at 16h 30m 35s.xml">
+      <configuration name="BinarySearchTest.testFastBinarySearch" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExerciseListTest_testAddRemoveContains - 2019.07.30 at 13h 28m 43s.xml">
-      <configuration name="ExerciseListTest.testAddRemoveContains" configurationId="JUnit" />
+    <history-entry file="BinarySearchTest_testFastBinarySearch - 2019.07.30 at 16h 30m 47s.xml">
+      <configuration name="BinarySearchTest.testFastBinarySearch" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExerciseListTest_testAddRemoveContains - 2019.07.30 at 13h 29m 46s.xml">
-      <configuration name="ExerciseListTest.testAddRemoveContains" configurationId="JUnit" />
+    <history-entry file="BinarySearchTest_testFastBinarySearch - 2019.07.30 at 16h 31m 18s.xml">
+      <configuration name="BinarySearchTest.testFastBinarySearch" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LomutoQuickSortTest - 2019.07.30 at 14h 24m 19s.xml">
-      <configuration name="LomutoQuickSortTest" configurationId="JUnit" />
+    <history-entry file="BinarySearchTest_testFastBinarySearch - 2019.07.30 at 16h 31m 34s.xml">
+      <configuration name="BinarySearchTest.testFastBinarySearch" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21162046" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21162046" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -360,7 +371,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3290461" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290461" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -474,6 +485,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinearSearch/LinearSearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#119#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/InsertionSort/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -493,14 +515,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinearSearch/LinearSearchTest.java">
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch/BinarySearchTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+        <state relative-caret-position="510">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#119#128#0" expanded="true" />
+            <element signature="e#162#171#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="59" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
         </state>
       </provider>
     </entry>
