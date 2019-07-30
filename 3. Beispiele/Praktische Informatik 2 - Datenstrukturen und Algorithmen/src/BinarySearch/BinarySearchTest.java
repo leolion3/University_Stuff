@@ -27,10 +27,8 @@ public class BinarySearchTest {
         for(int i=0;i<1000;i++){
             array[i]=i;
         }
-        Assert.assertEquals(500,binarySearch.fastBinarySearch(array,500));
         for(int i=0;i<1000;i++){
             Assert.assertEquals(i,binarySearch.fastBinarySearch(array,i));
         }
-        Assert.assertEquals(-1,binarySearch.fastBinarySearch(array,1001));
     }
 }
