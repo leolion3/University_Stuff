@@ -8,7 +8,7 @@
   <li>Beispiele</li>
 </ul>
 
-<h1>Praktische Informatik 1 & Exams</h1>
+<h1>Praktische Informatik + Exams</h1>
 
 Suchst du alte Klasuren, oder ein paar Beispiele?
 <ul>
