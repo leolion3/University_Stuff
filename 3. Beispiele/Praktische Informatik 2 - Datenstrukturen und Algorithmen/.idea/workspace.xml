@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa751e61-9ffd-4729-ac7b-41177c4d861c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/BinarySearchLamba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/BinarySearchLambaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearch/LinearSearchLambdaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearch/LinearSearchLamda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeSort/MergeSortLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeSort/MergeSortLambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubbleSort/BubbleSortLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubbleSort/BubbleSortLambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InsertionSort/InsertionSortLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InsertionSort/InsertionSortLambdaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Praktische Informatik 2 Klausurvorbereitungsaufgaben/MergeSort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Praktische Informatik 2 Klausurvorbereitungsaufgaben/MergeSort/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MergeSort/MargeSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeSort/MargeSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MergeSort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeSort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QuickSort/LomutoQuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuickSort/LomutoQuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktische Informatik 2 Klausurvorbereitungsaufgaben/BinarySearch/BinarySearchLamba.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Praktische Informatik 2 Klausurvorbereitungsaufgaben/BinarySearch/BinarySearchLamba.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,48 +22,35 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MergeSort/MergeSort.java">
+        <entry file="file://$PROJECT_DIR$/src/InsertionSort/InsertionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-464">
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            <state relative-caret-position="102">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
               <folding>
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/InsertionSort/InsertionSortLambda.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#24#48#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MergeSort/MergeSortLambda.java">
+        <entry file="file://$PROJECT_DIR$/src/InsertionSort/InsertionSortLambdaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-              <folding>
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LinearSearch/LinearSearchLamda.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-              <folding>
-                <element signature="e#52#76#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LinearSearch/LinearSearchLambdaTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            <state relative-caret-position="187">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,10 +59,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MergeSort/MergeSortLambdaTest.java">
+        <entry file="file://$PROJECT_DIR$/src/BubbleSort/BubbleSortLambdaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="306">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,7 +92,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BinarySearch/BinarySearchLamba.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -130,15 +112,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/QuickSort/QuickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -182,6 +155,10 @@
         <option value="$PROJECT_DIR$/src/QuickSort/LomutoQuickSort.java" />
         <option value="$PROJECT_DIR$/src/BinarySearch/BinarySearchLambaTest.java" />
         <option value="$PROJECT_DIR$/src/BinarySearch/BinarySearchLamba.java" />
+        <option value="$PROJECT_DIR$/src/BubbleSort/BubbleSortLambda.java" />
+        <option value="$PROJECT_DIR$/src/BubbleSort/BubbleSortLambdaTest.java" />
+        <option value="$PROJECT_DIR$/src/InsertionSort/InsertionSortLambdaTest.java" />
+        <option value="$PROJECT_DIR$/src/InsertionSort/InsertionSortLambda.java" />
       </list>
     </option>
   </component>
@@ -215,7 +192,7 @@
               <item name="KlausurVorbereitung" type="b2602c69:ProjectViewProjectNode" />
               <item name="Praktische Informatik 2 - Datenstrukturen und Algorithmen" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BinarySearch" type="462c0819:PsiDirectoryNode" />
+              <item name="InsertionSort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -245,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BinarySearchLambaTest">
+  <component name="RunManager" selected="JUnit.InsertionSortLambdaTest">
     <configuration name="BinarySearchLambaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Praktische Informatik 2 Klausurvorbereitungsaufgaben" />
       <extension name="coverage">
@@ -256,6 +233,37 @@
       </extension>
       <option name="PACKAGE_NAME" value="BinarySearch" />
       <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearchLambaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSortLambdaTest.testBubbleSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Praktische Informatik 2 Klausurvorbereitungsaufgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BubbleSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BubbleSort" />
+      <option name="MAIN_CLASS_NAME" value="BubbleSort.BubbleSortLambdaTest" />
+      <option name="METHOD_NAME" value="testBubbleSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSortLambdaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Praktische Informatik 2 Klausurvorbereitungsaufgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InsertionSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="InsertionSort" />
+      <option name="MAIN_CLASS_NAME" value="InsertionSort.InsertionSortLambdaTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -272,37 +280,6 @@
       <option name="PACKAGE_NAME" value="LinearSearch" />
       <option name="MAIN_CLASS_NAME" value="LinearSearch.LinearSearchLambdaTest" />
       <option name="METHOD_NAME" value="testLinearSearch" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MargeSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Praktische Informatik 2 Klausurvorbereitungsaufgaben" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MergeSort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="MergeSort" />
-      <option name="MAIN_CLASS_NAME" value="MergeSort.MargeSortTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MargeSortTest.testMergeSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Praktische Informatik 2 Klausurvorbereitungsaufgaben" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MergeSort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="MergeSort" />
-      <option name="MAIN_CLASS_NAME" value="MergeSort.MargeSortTest" />
-      <option name="METHOD_NAME" value="testMergeSort" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -326,11 +303,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.InsertionSortLambdaTest" />
+        <item itemvalue="JUnit.BubbleSortLambdaTest.testBubbleSort" />
         <item itemvalue="JUnit.BinarySearchLambaTest" />
         <item itemvalue="JUnit.LinearSearchLambdaTest.testLinearSearch" />
         <item itemvalue="JUnit.MergeSortLambdaTest.testMergeSort" />
-        <item itemvalue="JUnit.MargeSortTest" />
-        <item itemvalue="JUnit.MargeSortTest.testMergeSort" />
       </list>
     </recent_temporary>
   </component>
@@ -344,32 +321,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564406697517</updated>
-      <workItem from="1564664482247" duration="6021000" />
+      <workItem from="1564664482247" duration="8331000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MergeSortLambdaTest_testMergeSort - 2019.08.01 at 16h 48m 50s.xml">
-      <configuration name="MergeSortLambdaTest.testMergeSort" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MergeSortLambdaTest_testMergeSort - 2019.08.01 at 16h 56m 02s.xml">
-      <configuration name="MergeSortLambdaTest.testMergeSort" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MergeSortLambdaTest_testMergeSort - 2019.08.01 at 17h 01m 29s.xml">
-      <configuration name="MergeSortLambdaTest.testMergeSort" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LinearSearchLambdaTest_testLinearSearch - 2019.08.01 at 17h 08m 10s.xml">
-      <configuration name="LinearSearchLambdaTest.testLinearSearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LinearSearchLambdaTest_testLinearSearch - 2019.08.01 at 17h 09m 12s.xml">
-      <configuration name="LinearSearchLambdaTest.testLinearSearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinarySearchLambaTest - 2019.08.01 at 17h 16m 08s.xml">
-      <configuration name="BinarySearchLambaTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinarySearchLambaTest - 2019.08.01 at 17h 16m 26s.xml">
-      <configuration name="BinarySearchLambaTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BinarySearchLambaTest - 2019.08.01 at 17h 16m 37s.xml">
       <configuration name="BinarySearchLambaTest" configurationId="JUnit" />
     </history-entry>
@@ -379,20 +335,41 @@
     <history-entry file="BinarySearchLambaTest - 2019.08.01 at 17h 17m 16s.xml">
       <configuration name="BinarySearchLambaTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BubbleSortLambdaTest_testBubbleSort - 2019.08.01 at 17h 32m 18s.xml">
+      <configuration name="BubbleSortLambdaTest.testBubbleSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsertionSortLambdaTest - 2019.08.01 at 17h 43m 15s.xml">
+      <configuration name="InsertionSortLambdaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsertionSortLambdaTest - 2019.08.01 at 17h 43m 44s.xml">
+      <configuration name="InsertionSortLambdaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsertionSortLambdaTest - 2019.08.01 at 17h 44m 24s.xml">
+      <configuration name="InsertionSortLambdaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsertionSortLambdaTest - 2019.08.01 at 17h 45m 19s.xml">
+      <configuration name="InsertionSortLambdaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsertionSortLambdaTest - 2019.08.01 at 17h 53m 07s.xml">
+      <configuration name="InsertionSortLambdaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsertionSortLambdaTest - 2019.08.01 at 17h 56m 43s.xml">
+      <configuration name="InsertionSortLambdaTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6021000" />
+    <option name="totallyTimeSpent" value="8331000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1215" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23982684" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49846625" visible="true" weight="0.23982684" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Structure" order="5" sideWeight="0.50153375" side_tool="true" weight="0.23982684" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -406,7 +383,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3290461" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3290461" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32822084" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -454,16 +431,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#146#155#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/InsertionSort/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -522,27 +489,6 @@
     <entry file="file://$PROJECT_DIR$/Praktische Informatik 2 Klausurvorbereitungsaufgaben.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MergeSort/MargeSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#68#92#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MergeSort/MergeSortLambdaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LinearSearch/LinearSearchLamda.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -592,10 +538,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/QuickSort/LomutoQuickSort.java">
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch/BinarySearchLamba.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+        <state relative-caret-position="170">
+          <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+          <folding>
+            <element signature="e#23#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -609,12 +558,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/BinarySearchLamba.java">
+    <entry file="file://$PROJECT_DIR$/src/QuickSort/LomutoQuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+        <state relative-caret-position="34">
+          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MergeSort/MargeSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
-            <element signature="e#23#47#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#68#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BubbleSort/BubbleSortLambdaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InsertionSort/InsertionSortLambdaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MergeSort/MergeSortLambdaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BubbleSort/BubbleSortLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InsertionSort/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InsertionSort/InsertionSortLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#24#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
