@@ -1,6 +1,6 @@
 package QuickSort;
 
-/** This Class implements the Lomuto partition scheme LomutoQuickSort algorithm */
+/** This Class implements the Lomuto partition scheme QuickSort algorithm */
 @SuppressWarnings("all")
 public class LomutoQuickSort<T extends Comparable<? super T>> {
 

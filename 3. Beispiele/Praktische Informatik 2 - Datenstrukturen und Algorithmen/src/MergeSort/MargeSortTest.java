@@ -2,7 +2,7 @@ package MergeSort;
 
 import org.junit.Assert;
 import org.junit.Test;
-
+@SuppressWarnings("all")
 public class MargeSortTest {
 
     MergeSort<Integer> mergeSort = new MergeSort<Integer>();
@@ -20,4 +20,5 @@ public class MargeSortTest {
             Assert.assertEquals(a,(int) array[a]);
         }
     }
+
 }
