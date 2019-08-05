@@ -1,5 +1,5 @@
-<h1>Wilkommen auf der Website!</h1>
-<p>Wenn du Hilfe brauchst mit deinen Hausaufgaben oder Klausuren brauchst, oder nur so gern ein paar lustige Sachen lernen willst, dann bist Du am richtigen Ort gelandet!</p>
+<h1>Welcome to my Website!</h1>
+<p>If you need help with your courses and exams, or are just looking for some fun things for your free time, you have come to the right place!</p>
 
 <h1>Grundlagen der Medieninformatik 1</h1>
 
@@ -10,14 +10,14 @@
 
 <h1>Praktische Informatik + Exams</h1>
 
-Suchst du alte Klasuren, oder ein paar Beispiele?
+Are you looking for old exams, or for some examlples? Take a look at what I got!
 <ul>
   <li><code>Exams/Klausuren (all in English)</code><a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/2.%20Praktische%20Informatik%201/Exams">(Gitlab)</a></li>
   <li><code>Beispiele </code> <a href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele">(Github)</a></li>
 </ul>
 
 
-<h1>Sachen für DEINE Freizeit</h1>
+<h1>Things for your free-time</h1>
 
 
 Windows BATCH:
@@ -29,14 +29,13 @@ Windows BATCH:
   </ul>
   <img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Shell.PNG?raw=true">
 
-<h1>Mehr von Mir</h1>
+<h1>More from me</h1>
 
-Hier findest Du andere Sachen die ich in meiner Freizeit mache...
+Here you can find stuff that I do in my free-time...
 
 <ul>
-  <li><img src="https://lh3.googleusercontent.com/iwBywQJPRV8Rk-uuHzMzSspSaTO8AHjgBgeqovw8SlWpdej_vcU68LPLaRa9jptfHlk=s180-rw" width="18" height="18"> Sharky the hungry Sharkfish Spiel <a href="https://play.google.com/store/apps/details?id=com.SpaceAhoy.Sharky">(Google Play)</a></li>
-    <li><img src="https://lh3.googleusercontent.com/w_qN0qkMH9B-XmVHDn4GDEFfaISZ3ItJuwahMIqq0BfqW-3_GtLsETiG6URyOy_vKA=s180-rw" width="18" height="18"> Open-Source Password Generator App <a href="https://play.google.com/store/apps/details?id=processing.test.password_generator">(Google Play)</a> 
-    <li><img src="https://yt3.ggpht.com/-vE8lalEFT0E/AAAAAAAAAAI/AAAAAAAAAKs/KLVzTlDF7jo/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" width="18" height="18">  <a href="https://www.YouTube.com/c/StrongLions">YouTube Channel (Tutorials und Weiteres...)</a></li>
+  <li><img src="https://lh3.googleusercontent.com/iwBywQJPRV8Rk-uuHzMzSspSaTO8AHjgBgeqovw8SlWpdej_vcU68LPLaRa9jptfHlk=s180-rw" width="18" height="18"> Sharky the hungry Sharkfish Game <a href="https://play.google.com/store/apps/details?id=com.SpaceAhoy.Sharky">(Google Play)</a></li>
+    <li><img src="https://lh3.googleusercontent.com/w_qN0qkMH9B-XmVHDn4GDEFfaISZ3ItJuwahMIqq0BfqW-3_GtLsETiG6URyOy_vKA=s180-rw" width="18" height="18"> Open-Source Password Generator App <a href="https://play.google.com/store/apps/details?id=processing.test.password_generator">(Google Play)</a> </ul>
 
 
   <code>
