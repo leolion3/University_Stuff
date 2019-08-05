@@ -34,8 +34,8 @@ Windows BATCH:
 Here you can find stuff that I do in my free-time...
 
 <ul>
-  <li><img target="_blank" src="https://lh3.googleusercontent.com/iwBywQJPRV8Rk-uuHzMzSspSaTO8AHjgBgeqovw8SlWpdej_vcU68LPLaRa9jptfHlk=s180-rw" width="18" height="18"> Sharky the hungry Sharkfish Game <a href="https://play.google.com/store/apps/details?id=com.SpaceAhoy.Sharky">(Google Play)</a></li>
-    <li><img target="_blank" src="https://lh3.googleusercontent.com/w_qN0qkMH9B-XmVHDn4GDEFfaISZ3ItJuwahMIqq0BfqW-3_GtLsETiG6URyOy_vKA=s180-rw" width="18" height="18"> Open-Source Password Generator App <a href="https://play.google.com/store/apps/details?id=processing.test.password_generator">(Google Play)</a> </ul>
+  <li><img src="https://lh3.googleusercontent.com/iwBywQJPRV8Rk-uuHzMzSspSaTO8AHjgBgeqovw8SlWpdej_vcU68LPLaRa9jptfHlk=s180-rw" width="18" height="18"> Sharky the hungry Sharkfish Game <a href="https://play.google.com/store/apps/details?id=com.SpaceAhoy.Sharky">(Google Play)</a></li>
+    <li><img src="https://lh3.googleusercontent.com/w_qN0qkMH9B-XmVHDn4GDEFfaISZ3ItJuwahMIqq0BfqW-3_GtLsETiG6URyOy_vKA=s180-rw" width="18" height="18"> Open-Source Password Generator App <a href="https://play.google.com/store/apps/details?id=processing.test.password_generator">(Google Play)</a> </ul>
 
 
   <code>
