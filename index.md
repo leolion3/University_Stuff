@@ -25,7 +25,8 @@ Windows BATCH:
   <li> Password-Protected Self-Defending USB <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL/2.%20Password-Protected%20Self-Defending%20USB">(Github)</a> </li>
   <li> 3-Line PC crasher <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL/3.%20PC%20CRASHER">(Github) </a> </li> </ul>
   Python:
-  <ul> <li> Reverse Shell <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python%20Reverse%20Shell">(Github)</a> </li>
+  <ul> <li> 1. Network Tool (NetCat "Replacement"): <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Network%20Tool">(Github)</a> </li>
+  <li> 2. Reverse-Shell <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Python%20Reverse%20Shell">(Github)</a> </li>
   </ul>
   <img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Shell.PNG?raw=true">
 
