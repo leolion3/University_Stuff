@@ -36,14 +36,14 @@ For the host computer:
 
 tool.py -l -p port
 
-This will setup a listener on [IP_Adress]:[Port]
+This will setup a listener on [IP_Address]:[Port]
 
-(*) For the host the IP is set to the default IP Adress
-(*) You can look up your IP Adress with whatsmyip.org
+(*) For the host the IP is set to the default IP Address
+(*) You can look up your IP Address with whatsmyip.org
 
 And for the client computer:
 
-tool.py -t Host_IP_Adress -p Port
+tool.py -t Host_IP_Address -p Port
 
 Where the target is the Host's ip address and the port 
 the above port
