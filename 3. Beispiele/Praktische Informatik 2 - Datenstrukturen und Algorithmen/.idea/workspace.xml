@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa751e61-9ffd-4729-ac7b-41177c4d861c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BubbleSort/BubbleSortLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BubbleSort/BubbleSortLambdaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InsertionSort/InsertionSortLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InsertionSort/InsertionSortLambdaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Praktische Informatik 2 Klausurvorbereitungsaufgaben/BinarySearch/BinarySearchLamba.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Praktische Informatik 2 Klausurvorbereitungsaufgaben/BinarySearch/BinarySearchLamba.class" afterDir="false" />
-    </list>
+    <list default="true" id="aa751e61-9ffd-4729-ac7b-41177c4d861c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +29,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/InsertionSort/InsertionSortLambda.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
+            <state relative-caret-position="561">
               <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -188,12 +181,6 @@
               <item name="Praktische Informatik 2 - Datenstrukturen und Algorithmen" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="KlausurVorbereitung" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Praktische Informatik 2 - Datenstrukturen und Algorithmen" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="InsertionSort" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -321,7 +308,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564406697517</updated>
-      <workItem from="1564664482247" duration="8331000" />
+      <workItem from="1564664482247" duration="8574000" />
     </task>
     <servers />
   </component>
@@ -358,13 +345,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8331000" />
+    <option name="totallyTimeSpent" value="8574000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1215" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49846625" visible="true" weight="0.23982684" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49846625" visible="true" weight="0.23982684" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -625,7 +611,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/InsertionSort/InsertionSortLambda.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
+        <state relative-caret-position="561">
           <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
