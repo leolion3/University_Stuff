@@ -45,7 +45,7 @@ And for the client computer:
 
 tool.py -t Host_IP_Adress -p Port
 
-Where the target is the Host's ip adress and the port 
+Where the target is the Host's ip address and the port 
 the above port
 
 Using these commands will give the host computer a shell
