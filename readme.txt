@@ -31,8 +31,8 @@ https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freize
 
 =====PYTHON=====
 
-1. Network Tool (NetCat "Replacement"): <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Network%20Tool">(Github)</a>
-2. Reverse-Shell <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Python%20Reverse%20Shell">(Github)</a>
+1. Network Tool (NetCat "Replacement"): https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Network%20Tool
+2. Reverse-Shell: https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Python%20Reverse%20Shell
 
 =======================
 
