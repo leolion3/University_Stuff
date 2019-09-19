@@ -1,11 +1,11 @@
-====================Welcome====================
+<h1>====================Welcome====================</h1>
 
-At this section you can find some cool stuff you
-can do in your FREE TIME. I hope you like it.
+<p>At this section you can find some cool stuff you
+can do in your FREE TIME. I hope you like it.</p>
 
-READ THIS BEFORE PROCCEEDING:
+<p>READ THIS BEFORE PROCCEEDING:
 BY VIEWING THIS SECTION AND TESTING ITS TOOLS YOU ARE AGREEING TO THE TERMS OF USAGE AND THE DISCLAIMER BELOW.
-YOU, AND YOU ONLY, WILL BE HELD ACCOUNTABLE FOR ANY MISUSE OF THE TOOLS PROVIDED HERE.
+YOU, AND YOU ONLY, WILL BE HELD ACCOUNTABLE FOR ANY MISUSE OF THE TOOLS PROVIDED HERE.</p>
 
 
 
