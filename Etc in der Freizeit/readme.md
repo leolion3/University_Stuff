@@ -1,4 +1,4 @@
-<h1>====================Welcome====================</h1>
+<h1>================Welcome================</h1>
 
 <p>At this section you can find some cool stuff you
 can do in your FREE TIME. I hope you like it.</p>
