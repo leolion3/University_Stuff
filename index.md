@@ -18,7 +18,7 @@
 <p>Are you looking for old exams, or for some examples? Take a look at what I got!</p>
 
 <!--Klausuren Section-->
-<h2>Klausuren/Exams(All in English!)</h2>
+<h2>Klausuren/Exams</h2>
 
 <!-- PI-1 Klausuren -->
   <ul>
