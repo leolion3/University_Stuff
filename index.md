@@ -56,11 +56,16 @@
 <h1>Things for your free-time</h1>
 
 
-Windows BATCH:
+<!-- Batch -->
+<h3>Windows BATCH</h3>
 <ul><li>Windows BATCH (BASIC) Introduction <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Github)</a></li>
   <li> Password-Protected Self-Defending USB <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL/2.%20Password-Protected%20Self-Defending%20USB">(Github)</a> </li>
   <li> 3-Line PC crasher <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL/3.%20PC%20CRASHER">(Github) </a> </li> </ul>
-  Python:
+
+<!-- Python Section -->
+<h3>Python</h3>
+
+<h4>Networking and more:</h4>
   <ul> <li> Network Tool <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Network%20Tool">(Github)</a> </li>
   <li> Reverse-Shell <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Python%20Reverse%20Shell">(Github)</a> </li>
   </ul>
