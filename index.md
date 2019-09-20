@@ -1,6 +1,9 @@
 <h1>Welcome to my Website!</h1>
 <p>If you need help with your courses and exams, or are just looking for some fun things for your free time, you have come to the right place!</p>
 
+<!-- Page Breaker(s)-->
+<hr>
+
 <h1>Grundlagen der Medieninformatik 1</h1>
 
 <ul>
