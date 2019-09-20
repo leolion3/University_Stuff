@@ -15,7 +15,7 @@
 <hr>
 
 <h1>Praktische Informatik + Exams</h1>
-<p>Are you looking for old exams, or for some examlples? Take a look at what I got!</p>
+<p>Are you looking for old exams, or for some examples? Take a look at what I got!</p>
 
 <!--Klausuren Section-->
 <h2>Klausuren/Exams(All in English!)</h2>
