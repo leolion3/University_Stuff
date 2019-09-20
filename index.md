@@ -9,12 +9,16 @@
 </ul>
 
 <h1>Praktische Informatik + Exams</h1>
-
-Are you looking for old exams, or for some examlples? Take a look at what I got!
+<p>Are you looking for old exams, or for some examlples? Take a look at what I got!</p>
+<p><code>Klausuren/Exams(all in English)</code><a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/2.%20Praktische%20Informatik%201/Exams">(Gitlab)</a></p>
+<h2>Praktische Informatik 1: Imperative Programmierung und Objektorientierung</h2>
+<h2>Praktische Informatik 2: Algorithmen und Datenstrukturen</h2>
+<h3>Algorithm Examples</h3>
+<h4>Search Algorithms:</h4>
 <ul>
-  <li><code>Exams/Klausuren(all in English)</code><a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/2.%20Praktische%20Informatik%201/Exams">(Gitlab)</a></li>
-  <li><code>Examples</code> <a href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele">(Github)</a></li>
+  <li><code></code></li>
 </ul>
+<h4>Sorting Algorithms</h4>
 
 
 <h1>Things for your free-time</h1>
