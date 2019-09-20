@@ -8,6 +8,9 @@
   <li>Beispiele</li>
 </ul>
 
+<!-- Page Breaker(s)-->
+<hr>
+
 <h1>Praktische Informatik + Exams</h1>
 <p>Are you looking for old exams, or for some examlples? Take a look at what I got!</p>
 
@@ -44,6 +47,8 @@
   <li><code>Quicksort</code><a href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/QuickSort">(Github)</a></li>
 </ul>
 
+<!-- Page Breaker(s)-->
+<hr>
 
 <h1>Things for your free-time</h1>
 
@@ -58,7 +63,11 @@ Windows BATCH:
   </ul>
   <img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Shell.PNG?raw=true">
 
-<h1>More from me</h1>
+<!-- Page Breaker(s)-->
+<hr>
+
+<!-- Me-section -->
+<h1>More from Me</h1>
 
 Here you can find stuff that I do in my free-time...
 
