@@ -24,7 +24,7 @@
   <ul>
   <li><code>Praktische Informatik 1 Exams/Klausuren</code><a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/2.%20Praktische%20Informatik%201/Exams/Praktische%20Informatik%201%20-%20Imperative%20Programmierung%20und%20Objektorientierung">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/2.%20Klausuren/Praktische%20Informatik/Praktische%20Informatik%201%20-%20Imperative%20Programmierung%20und%20Objektorientierung">(Github)</a></li>
 <!-- PI-2 Klausuren -->
-    <li><code>Praktische Informatik 2 Exams/Klausuren</code><a href="">(Gitlab)</a> <a href="">(Github)</a></li>
+    <li><code>Praktische Informatik 2 Exams/Klausuren</code><a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/2.%20Praktische%20Informatik%201/Exams/Praktische%20Informatik%202%20-%20Algorithmen%20und%20Datenstrukturen">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/2.%20Klausuren/Praktische%20Informatik/Praktische%20Informatik%202%20-%20Algorithmen%20und%20Datenstrukturen">(Github)</a></li>
   </ul>
 
 <!-- PI-1 -->
