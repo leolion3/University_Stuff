@@ -34,6 +34,11 @@
 <h2>Praktische Informatik 2: Algorithmen und Datenstrukturen</h2>
 <h3>=====Algorithm Examples=====</h3>
 
+<!-- Nodes & more -->
+<h4>Nodes, Linked Lists, Trees & more...</h4>
+<ul>
+  <li><code>Simple Linked List</code> <a href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes%2C%20LinkedLists%2C%20Trees/LinkedList">(Github)</a>
+</ul>
 <!-- Search -->
 <h4>Search Algorithms:</h4>
 <ul>
