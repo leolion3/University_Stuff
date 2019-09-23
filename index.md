@@ -57,7 +57,7 @@
 
 
 <!-- Android Studio -->
-<h3>Android Studio</h3>
+<!-- <h3>Android Studio</h3> -->
 
 
 <!-- Batch -->
@@ -79,7 +79,7 @@
 <hr>
 
 <!-- Me-section -->
-<h1>More from Me</h1>
+<h1>More from Me...</h1>
 
 Here you can find stuff that I do in my free-time...
 
