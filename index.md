@@ -32,7 +32,6 @@
 
 <!-- PI-2 -->
 <h2>Praktische Informatik 2: Algorithmen und Datenstrukturen</h2>
-<h3>=====Algorithm Examples=====</h3>
 
 <!-- Nodes & more -->
 <h4>Nodes, Linked Lists, Trees & more...</h4>
