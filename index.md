@@ -6,7 +6,7 @@
   <li><a href="https://github.com/leolion3/University_Stuff/blob/master/index.md#grundlagen-der-medieninformatik-1">Grundlagen der MedienInformatik 1</a></li>
   <li><a href="https://github.com/leolion3/University_Stuff/blob/master/index.md#praktische-informatik--exams">Praktische Informatik Exams</a></li>
   <li><a href="https://github.com/leolion3/University_Stuff/blob/master/index.md#praktische-informatik-1-imperative-programmierung-und-objektorientierung">Praktische Informatik 1: Imperative Programmierung und Objektorientierung</a></li>
-  <li><a href="https://github.com/leolion3/University_Stuff/blob/master/index.md#praktische-informatik-2-algorithmen-und-datenstrukturen">Praktische Informatik 2: Algorithmen und Datenstrukturen</a>
+  <li><a href="https://github.com/leolion3/University_Stuff/blob/master/index.md#praktische-informatik-2-algorithmen-und-datenstrukturen">Praktische Informatik 2: Algorithmen und Datenstrukturen</a></li>
   <li><a href="https://github.com/leolion3/University_Stuff/blob/master/index.md#things-for-your-free-time">Thing for your free-time</a></li>
   <li><a href="https://github.com/leolion3/University_Stuff/blob/master/index.md#more-from-me">More from Me...</a></li>
 </ul>
