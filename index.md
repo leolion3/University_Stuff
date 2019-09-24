@@ -3,9 +3,9 @@
 
 <h2>Choose what ya came for:</h2>
 <ul>
-  <li><a href="#Praktische Informatik + Exams"></a></li>
-  <li><a href="#Praktische Informatik 1: Imperative Programmierung und Objektorientierung">Praktische Informatik 1: Imperative Programmierung und Objektorientierung</a></li>
-  <li><a href="#Praktische Informatik 2: Algorithmen und Datenstrukturen">Praktische Informatik 2: Algorithmen und Datenstrukturen</a>
+  <li><a href="https://github.com/leolion3/University_Stuff/blob/master/index.md#Praktische Informatik + Exams">Praktische Informatik Exams</a></li>
+  <li><a href="https://github.com/leolion3/University_Stuff/blob/master/index.md#Praktische Informatik 1: Imperative Programmierung und Objektorientierung">Praktische Informatik 1: Imperative Programmierung und Objektorientierung</a></li>
+  <li><a href="https://github.com/leolion3/University_Stuff/blob/master/index.md#Praktische Informatik 2: Algorithmen und Datenstrukturen">Praktische Informatik 2: Algorithmen und Datenstrukturen</a>
 </ul>
 
 <!-- Page Breaker(s)-->
