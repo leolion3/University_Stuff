@@ -1,6 +1,13 @@
 <h1>Welcome to my Website!</h1>
 <p>If you need help with your courses and exams, or are just looking for some fun things for your free time, you have come to the right place!</p>
 
+<h2>Choose what ya came for:</h2>
+<ul>
+  <li><a href="#Praktische Informatik + Exams"></a></li>
+  <li><a href="#Praktische Informatik 1: Imperative Programmierung und Objektorientierung">Praktische Informatik 1: Imperative Programmierung und Objektorientierung</a></li>
+  <li><a href="#Praktische Informatik 2: Algorithmen und Datenstrukturen">Praktische Informatik 2: Algorithmen und Datenstrukturen</a>
+</ul>
+
 <!-- Page Breaker(s)-->
 <hr>
 
