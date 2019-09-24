@@ -1,16 +1,5 @@
 <h1>Welcome to my Website!</h1>
 <p>If you need help with your courses and exams, or are just looking for some fun things for your free time, you have come to the right place!</p>
-
-<h2>Choose what ya came for:</h2>
-<ul>
-  <li><a href="https://github.com/leolion3/University_Stuff/blob/master/index.md#grundlagen-der-medieninformatik-1">Grundlagen der MedienInformatik 1</a></li>
-  <li><a href="#praktische-informatik--exams">Praktische Informatik Exams</a></li>
-  <li><a href="#praktische-informatik-1-imperative-programmierung-und-objektorientierung">Praktische Informatik 1: Imperative Programmierung und Objektorientierung</a></li>
-  <li><a href="#praktische-informatik-2-algorithmen-und-datenstrukturen">Praktische Informatik 2: Algorithmen und Datenstrukturen</a></li>
-  <li><a href="#things-for-your-free-time">Thing for your free-time</a></li>
-  <li><a href="#more-from-me">More from Me...</a></li>
-</ul>
-
 <!-- Page Breaker(s)-->
 <hr>
 
