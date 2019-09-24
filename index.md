@@ -38,7 +38,9 @@
 <h4>Nodes, Linked Lists, Trees & more...</h4>
 <ul>
   <li><code>Simple Linked List</code> <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes,%20LinkedLists,%20Trees/LinkedList">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes%2C%20LinkedLists%2C%20Trees/LinkedList">(Github)</a>
-  </li></ul>
+  </li>
+  <li><code>Simple Tree</code> <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes,%20LinkedLists,%20Trees/SimpleTree">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes%2C%20LinkedLists%2C%20Trees/SimpleTree">(Github)</a> </li>
+</ul>
 <!-- Search -->
 <h4>Search Algorithms:</h4>
 <ul>
