@@ -1,6 +1,5 @@
 /** Implements a simple tree, where the first element is always
  * added to the left and the second element to the right tree node */
-@SuppressWarnings("all")
 public class SimpleTree<T> {
 
     private Node<T> root;
