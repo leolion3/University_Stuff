@@ -1,7 +1,9 @@
 // Useful imports for your implementation
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.util.*;
 import java.util.Scanner;
-import java.nio.file.*;
 
 
 /**
@@ -22,7 +24,7 @@ import java.nio.file.*;
  *
  * Again, no changed done to main will be taken into account.
  */
-class Exercise3
+class Exercise3 extends Exercise1
 {
     /**
      * Constructor of the class Exercise3.
@@ -34,7 +36,7 @@ class Exercise3
      */
     Exercise3(final GameObject figure, final String fileName)
     {
-        // Must be passed to superclass
+        super(figure,readMap(fileName));
     }
 
     /**
@@ -45,7 +47,17 @@ class Exercise3
      */
     static List<String> readMap(final String fileName)
     {
-        return null; // replace this
+        List<String> map = new ArrayList<>();
+        try {
+            Scanner scanner = new Scanner(new FileInputStream(fileName));
+            while (scanner.hasNextLine()){
+                map.add(scanner.nextLine());
+            }
+            return map;
+        }
+        catch (FileNotFoundException e){
+            return null;
+        }
     }
 
     /**
@@ -60,7 +72,7 @@ class Exercise3
      */
     boolean moveMe()
     {
-        return false; // replace this
+        return super.moveMe();
     }
 
     /**
