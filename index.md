@@ -76,9 +76,15 @@
 <!-- Python Section -->
 <h3>Python</h3>
 
+<h4>Algorithms:</h4>
+<ul>
+	<li>Bubble-Sort <a href="https://github.com/leolion3/University_Stuff/blob/master/Etc%20in%20der%20Freizeit/Python/Algorithms/BubbleSort.py">(Github)</a></li>
+</ul>
+
 <h4>Networking and more:</h4>
   <ul> <li>Chatroom using TCP Sockets <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Chatroom">(Github)</a></li>
   <li> Network Tool <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Network%20Tool">(Github)</a> </li>
+  <li> Open-Port Checker <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/PortChecker">(Github)</a></li>
   <li> Reverse-Shell <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Python%20Reverse%20Shell">(Github)</a> </li>
   </ul>
   <img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Shell.PNG?raw=true">
