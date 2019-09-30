@@ -92,7 +92,7 @@
 Here you can find stuff that I do in my free-time...
 
 <ul>
-  <li><img src="https://yt3.ggpht.com/a/AGF-l7_KHJdyFbiDJZkdoPPeKJ30GvW9HhPLKgZp5w=s288-c-k-c0xffffffff-no-rj-mo" width="18" height="18">YouTube Channel(Tutorials & co) <a href="https://www.youtube.com/channel/UCxBBrZxnsifQsfCK_Rdbj3Q">(YouTube)</a></li>
+  <li><img src="https://yt3.ggpht.com/a/AGF-l7_KHJdyFbiDJZkdoPPeKJ30GvW9HhPLKgZp5w=s288-c-k-c0xffffffff-no-rj-mo" width="18" height="18"> YouTube Channel(Tutorials & co) <a href="https://www.youtube.com/channel/UCxBBrZxnsifQsfCK_Rdbj3Q">(YouTube)</a></li>
   <li><img src="https://lh3.googleusercontent.com/iwBywQJPRV8Rk-uuHzMzSspSaTO8AHjgBgeqovw8SlWpdej_vcU68LPLaRa9jptfHlk=s180-rw" width="18" height="18"> Sharky the hungry Sharkfish Game <a href="https://play.google.com/store/apps/details?id=com.SpaceAhoy.Sharky">(Google Play)</a></li>
   <li><img src="https://lh3.googleusercontent.com/asPozAuGQpJqNz-PB0yesBw9wRGkLDuquGqCf0p47rqBSvhxU5pdNHS27O5fuSF_RyY=s180-rw" width="18" height="18"> SemesterPlaner - Plan your Schedule! <a href="https://play.google.com/store/apps/details?id=com.spaceahoy.semesterplaner">(Google Play)</a></li>
     <li><img src="https://lh3.googleusercontent.com/w_qN0qkMH9B-XmVHDn4GDEFfaISZ3ItJuwahMIqq0BfqW-3_GtLsETiG6URyOy_vKA=s180-rw" width="18" height="18"> Open-Source Password Generator App <a href="https://play.google.com/store/apps/details?id=processing.test.password_generator">(Google Play)</a></li>
