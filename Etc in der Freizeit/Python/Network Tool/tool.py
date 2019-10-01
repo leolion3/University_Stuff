@@ -18,10 +18,90 @@ def clear():
         _ = system('clear')
 
 
+def create_file(s):
+    print("Welcome to the file creation tool!")
+    print('When you are done, simply type "===end==="')
+    while True:
+        user_input = input()
+        if "===end===" in user_input.lower():
+            s.send(b"===end===")
+            break
+        if len(user_input):
+            s.send(bytes(user_input,"utf-8"))
+
+
+def file_creator(s,path,fileName):
+    try:
+        f = open(path + fileName,"w+")
+        while True:
+            received_data = s.recv(4096)
+            received_message = received_data.decode()
+            if "===end===" in received_message:
+                f.close()
+                break
+            f.write(received_message +"\n")
+    except:
+        print("Exception! Terminating!")
+
+
+def send_commands(s):
+    print("\nYou can now send commands!")
+    print('To exit, simple type "exit"')
+    while True:
+        user_input = input("#>")
+        if "exit" in user_input.lower():
+            s.send(b"ended")
+            break
+        elif len(user_input):
+            s.send(bytes(user_input,"utf-8"))
+
+
+def receive_commands(s,receiveCommands):
+    while receiveCommands:
+        received_data = s.recv(4096)
+        received_message = received_data.decode()
+        if "ended" in received_message:
+            receive(s)
+            break
+        elif receiveCommands:
+            try:
+                if "cd" in received_message.lower():
+                    os.chdir(received_message[3:])
+                else:
+                    p = subprocess.check_output(received_message,stderr = subprocess.STDOUT,shell=True)
+                    if len(p):
+                        s.send(p)
+                    else:
+                        s.send(b"#>")
+            except Exception as e:
+                print(e)
+                try:
+                    p = subprocess.run(received_message,shell=True,capture_output=True)
+                    answer = p.stdout + p.stderr
+                    s.send(answer)
+                except Exception as g:
+                    print(g)
+                    s.send(b"Must've been an incorrect command!")
+        else:
+            break
+
+
 def send(s):
     while True:
         try:
             user_input = input()
+            if "cls" in user_input.lower() or "clear" in user_input.lower():
+                clear()
+            if "shell:" in user_input.lower():
+                s.send(b"shell:")
+                send_commands(s)
+            if "createfile:" in user_input.lower():
+                print("Please enter Path to create file at!")
+                path = input()
+                print("Please enter file name!")
+                name = input()
+                s.send(bytes("===createFile===," + path +',' + name,"utf-8"))
+                create_file(s)
             if len(user_input):
                 s.send(bytes(user_input,"utf-8"))
         except Exception as e:
@@ -35,7 +115,12 @@ def receive(s):
         try:
             received_data = s.recv(4096)
             received_message = received_data.decode()
-            if len(received_message):
+            if "===createFile===," in received_message:
+                command, path, name = received_message.split(',');
+                file_creator(s,path,name)
+            elif "shell:" in received_message:
+                receive_commands(s,True)
+            elif len(received_message):
                 print(received_message)
         except Exception as e:
             print(e)
