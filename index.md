@@ -68,7 +68,10 @@
 <!-- Android Studio -->
 <!-- <h3>Android Studio</h3> -->
 
-
+<h3>PowerShell</h3>
+<ul>
+	<li>Bubble Sort <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Powershell/Algorithms/BubbleSort">(Github)</a></li>
+</ul>
 <!-- Batch -->
 <h3>Windows BATCH</h3>
 <ul><li>BATCH Introduction <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Github)</a></li>
