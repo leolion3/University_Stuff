@@ -107,7 +107,7 @@ Here you can find stuff that I do in my free-time...
   <li><h2><img src="https://lh3.googleusercontent.com/iwBywQJPRV8Rk-uuHzMzSspSaTO8AHjgBgeqovw8SlWpdej_vcU68LPLaRa9jptfHlk=s180-rw" width="24" height="24"> Sharky the hungry Sharkfish Game <a target="_blank" href="https://play.google.com/store/apps/details?id=com.SpaceAhoy.Sharky">(Google Play)</a></h2>
 	  <img src="https://lh3.googleusercontent.com/O04pRpbIiKpY2r_QRSajjbVJ0cxDMSwJhoHZuXFl6fTBdlJUFj6oSbgS1nTyJghnz7E=w720-h310-rw"> 
 	<p>Sharky is very Hungry! Help by feeding him as many fish as you can, but watch out for those nasty harpoons!<br />
-	  Sharky is a family-friendly game designed for all ages. Furthermore it is completely FREE and AD-FREE.<br />
+	  Sharky is a family-friendly game designed for all ages. Furthermore it is completely FREE<br /> and AD-FREE.<br />
 	  Sharky is a great time killer for your free time as well!<br /> Be it while waiting at the airport, or in the subway, sharky can played anywhere at any given time!<br /> What are you still waiting for? Get Sharky today!</p>
 	</li>
   
