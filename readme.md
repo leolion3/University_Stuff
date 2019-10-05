@@ -143,7 +143,7 @@ Password Generator is completely FREE and AD-FREE, it works 100% offline an crea
 <p>Should you require additional help or have any questions, do contact me under <a href="mailto:s_xsipo6@uni-bremen.de">s_xsipo6@uni-bremen.de</a> - You may write your message in either English, German, Arabic or Hebrew.</p>
 <p>For business inquiries, App development requests or other stuff, please contact me personally on one of my social media accounts:<ul><li>Instagram (Development and Photography): <a href="https://www.instagram.com/xleolion3">@xleolion3</a></li> 
 	<li>YouTube (Development): <a href="https://www.youtube.com/channel/UCesXd6uUzs3LGpHQXNAQ3sQ">StrongLions</a> / <a href="https://www.youtube.com/channel/UCxBBrZxnsifQsfCK_Rdbj3Q">The Hi-Tech Lounge</a></li></ul>
-	 * If sending a Developement request, please do stick with English. Thank You!</p>
+	 * If sending a developement request, please do stick with English. Thank You!</p>
 <br/>
 <hr>
 <h5>DISCLAIMER</h5>
