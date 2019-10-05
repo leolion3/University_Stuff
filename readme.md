@@ -102,7 +102,7 @@
 
 Here you can find stuff that I do in my free-time...
 
-<h2>Google Play</h2>
+<h2><img src="https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png" width="168" height="35"></h2>
 <ul>
   <li><h2><img src="https://lh3.googleusercontent.com/iwBywQJPRV8Rk-uuHzMzSspSaTO8AHjgBgeqovw8SlWpdej_vcU68LPLaRa9jptfHlk=s180-rw" width="24" height="24"> Sharky the hungry Sharkfish Game <a target="_blank" href="https://play.google.com/store/apps/details?id=com.SpaceAhoy.Sharky">(Google Play)</a></h2>
 	  <img src="https://lh3.googleusercontent.com/O04pRpbIiKpY2r_QRSajjbVJ0cxDMSwJhoHZuXFl6fTBdlJUFj6oSbgS1nTyJghnz7E=w720-h310-rw"> 
@@ -138,3 +138,5 @@ Password Generator is completely FREE and AD-FREE, it works 100% offline an crea
   <li><h2><img src="https://yt3.ggpht.com/a/AGF-l78lu8bZDQn7_80Q2Hx8cXQepB5RWrGd2-cCQQ=s288-c-k-c0xffffffff-no-rj-mo" width="24" height="24"> YouTube Gaming Channel <a target="_blank" href="https://www.youtube.com/channel/UCesXd6uUzs3LGpHQXNAQ3sQ">(YouTube)</a></h2></li>
   <li><h2><img src="https://yt3.ggpht.com/a/AGF-l7_KHJdyFbiDJZkdoPPeKJ30GvW9HhPLKgZp5w=s288-c-k-c0xffffffff-no-rj-mo" width="24" height="24"> YouTube Channel (Tutorials & co) <a target="_blank" href="https://www.youtube.com/channel/UCxBBrZxnsifQsfCK_Rdbj3Q">(YouTube)</a></h2></li>
 </ul>
+<br/>
+<p>The Google Play name and Logo are Copyrighted Google LLC. I do not claim, nor have any affiliation with Google.</p>
