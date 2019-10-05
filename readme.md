@@ -139,4 +139,11 @@ Password Generator is completely FREE and AD-FREE, it works 100% offline an crea
   <li><h2><img src="https://yt3.ggpht.com/a/AGF-l7_KHJdyFbiDJZkdoPPeKJ30GvW9HhPLKgZp5w=s288-c-k-c0xffffffff-no-rj-mo" width="24" height="24"> YouTube Channel (Tutorials & co) <a target="_blank" href="https://www.youtube.com/channel/UCxBBrZxnsifQsfCK_Rdbj3Q">(YouTube)</a></h2></li>
 </ul>
 <br/>
+<hr>
+<h1>Contact</h1>
+<p>Should you require additional help or have any questions, do contact me under s_xsipo6@uni-bremen.de</p>
+<p>For business inquiries, App development requests or other stuff, please contact me personally on one of my social media accounts:<ul><li>Instagram (Development and Photography): @xleolion3</li> <li>YouTube (Development): StrongLions / The Hi-Tech Lounge</li></ul></p>
+<br/>
+<hr>
+<h5>DISCLAIMER</h5>
 <p>The Google Play name and Logo are Copyrighted Google LLC. I do not claim, nor have any affiliation with Google.</p>
