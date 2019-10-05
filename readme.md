@@ -128,7 +128,7 @@ Here you can find stuff that I do in my free-time...
   <img src="https://lh3.googleusercontent.com/Ebmg4CAn755JETg3MU2DIOVTVZLZUvJdVINBK2n6PykKf4f_i0coL_gEQObh_VCIA0Y=w720-h310-rw">
   <img src="https://lh3.googleusercontent.com/AZq9XFuuxM06D02eTipgmsPg7UO7iIZL2OiMvayBcOLDG8j3VbrKWBr7gdd1rCt-Aw=w720-h310-rw">
   <p>Passwords can be a real hustle, especially when you have a thousand accounts for a gazillion different websites...<br />
-  There are some great password generators out there, however how can you ever really trust such a service if it <br /> is not open sourced?<br />Stop worrying about your passwords today, with this Free, Open-Source Password Generator!<br />
+  There are some great password generators out there, however how can you ever really trust such a service if it is not open sourced?<br />Stop worrying about your passwords today, with this Free, Open-Source Password Generator!<br />
 Password Generator is completely FREE and AD-FREE, it works 100% offline an creates you a password in seconds!<br />
 	The source code can be found on <a href="https://github.com/leolion3/App-Tutorial/tree/master/Password_Generator">Github</a></p>
   </ul>
