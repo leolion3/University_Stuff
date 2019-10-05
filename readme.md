@@ -1,5 +1,7 @@
 <head><link rel="icon" href="https://lh3.googleusercontent.com/asPozAuGQpJqNz-PB0yesBw9wRGkLDuquGqCf0p47rqBSvhxU5pdNHS27O5fuSF_RyY=s180-rw"></head>
-
+<div class="topnav">
+	<a class="active" href="#home">Home</a>
+</div>
 <h1>Welcome to my Website!</h1>
 <p>If you need help with your courses and exams, or are just looking for some fun things for your free time, you have come to the right place!</p>
 <!-- Page Breaker(s)-->
