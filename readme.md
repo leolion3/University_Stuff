@@ -151,6 +151,6 @@ Password Generator is completely FREE and AD-FREE, it works 100% offline an crea
 <br/>
 <hr>
 <h5>DISCLAIMER</h5>
-<p>The Google Play name and Logo are Copyrighted Google LLC. I do not claim, nor have any affiliation with Google.
+<p>The Google Play name and Logo are Copyrighted Google LLC. I do not claim, nor have any affiliation with Google.<br/>
 Powershell and the Powershell Logo are copyrighted Microsoft Corporation. I do not claim, nor have any affiliation with them.<br/>
 Python, the name and the Logo are copyrighted trademarks of the Python Software Foundation. I do not claim, nor have any affiliation with them.</p>
