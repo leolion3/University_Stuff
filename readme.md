@@ -35,6 +35,8 @@
 <!-- PI-2 -->
 <h2>Praktische Informatik 2: Algorithmen und Datenstrukturen</h2>
 
+<img src="https://miro.medium.com/max/3118/1*iwPLQjyFYRTVeQ2cb4S9rA.png" width="850" height="250">
+
 <!-- Nodes & more -->
 <h4>Nodes, Linked Lists, Trees & more...</h4>
 <ul>
@@ -69,7 +71,7 @@
 <!-- Android Studio -->
 <!-- <h3>Android Studio</h3> -->
 
-<h3>PowerShell</h3>
+<h3><img src="https://docs.microsoft.com/en-us/powershell/media/index/powershell_128.svg" width="38" height="24">PowerShell</h3>
 <ul>
 	<li>Bubble Sort <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Powershell/Algorithms/BubbleSort">(Github)</a></li>
 </ul>
@@ -80,7 +82,7 @@
   <li> 3-Line PC crasher <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL/3.%20PC%20CRASHER">(Github) </a> </li> </ul>
 
 <!-- Python Section -->
-<h3>Python</h3>
+<image src="https://www.python.org/static/img/python-logo.png" width="168" height="50"/>
 
 <h4>Algorithms:</h4>
 <ul>
@@ -149,4 +151,6 @@ Password Generator is completely FREE and AD-FREE, it works 100% offline an crea
 <br/>
 <hr>
 <h5>DISCLAIMER</h5>
-<p>The Google Play name and Logo are Copyrighted Google LLC. I do not claim, nor have any affiliation with Google.</p>
+<p>The Google Play name and Logo are Copyrighted Google LLC. I do not claim, nor have any affiliation with Google.
+Powershell and the Powershell Logo are copyrighted Microsoft Corporation. I do not claim, nor have any affiliation with them.<br/>
+Python, the name and the Logo are copyrighted trademarks of the Python Software Foundation. I do not claim, nor have any affiliation with them.</p>
