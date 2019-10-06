@@ -1,4 +1,5 @@
 <head><link rel="icon" href="https://lh3.googleusercontent.com/asPozAuGQpJqNz-PB0yesBw9wRGkLDuquGqCf0p47rqBSvhxU5pdNHS27O5fuSF_RyY=s180-rw"></head>
+<table><tr><th>Praktische Informatik</th><th>Medien Informatik</th><th>Freetime &amp; more</th><th>More from Me</th><th>Contact</th></tr></table>
 <h1>Welcome to my Website!</h1>
 <p>If you need help with your courses and exams, or are just looking for some fun things for your free time, you have come to the right place!</p>
 <!-- Page Breaker(s)-->
