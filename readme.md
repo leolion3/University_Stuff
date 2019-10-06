@@ -1,5 +1,7 @@
 <head><link rel="icon" href="https://lh3.googleusercontent.com/asPozAuGQpJqNz-PB0yesBw9wRGkLDuquGqCf0p47rqBSvhxU5pdNHS27O5fuSF_RyY=s180-rw"></head>
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><tr><th style="font-family:"Lucida Console", Monaco, monospace !important;;font-size:20px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;background-color:#343434;color:#ffffff;text-align:center;vertical-align:top"><span style="font-weight:700">MedienInformatik</span></th><th style="font-family:"Lucida Console", Monaco, monospace !important;;font-size:20px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;background-color:#343434;color:#ffffff;text-align:center;vertical-align:top"><span style="font-weight:700">Praktische Informatik</span></th><th style="font-family:"Lucida Console", Monaco, monospace !important;;font-size:20px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;background-color:#343434;color:#ffffff;text-align:center;vertical-align:top">Freetime &amp; more</th><th style="font-family:"Lucida Console", Monaco, monospace !important;;font-size:20px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;background-color:#343434;color:#ffffff;text-align:center;vertical-align:top">More from Me</th><th style="font-family:"Lucida Console", Monaco, monospace !important;;font-size:20px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;background-color:#343434;color:#ffffff;text-align:center;vertical-align:top">Contact</th></tr></table>
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><tr><th style="font-family:"Arial Black", Gadget, sans-serif !important;;font-size:22px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;background-color:#343434;color:#ffffff;text-align:center;vertical-align:top"><span style="font-weight:700"><a href="#mi1">MedienInformatik</a></span></th><th style="font-family:"Arial Black", Gadget, sans-serif !important;;font-size:22px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;background-color:#343434;color:#ffffff;text-align:center;vertical-align:top"><span style="font-weight:700"><a href="#pi">Praktische Informatik</a></span></th><th style="font-family:"Arial Black", Gadget, sans-serif !important;;font-size:22px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;background-color:#343434;color:#ffffff;text-align:center;vertical-align:top"><a href="#free">Freetime &amp; more</a></th><th style="font-family:"Arial Black", Gadget, sans-serif !important;;font-size:22px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;background-color:#343434;color:#ffffff;text-align:center;vertical-align:top"><a href="#me">More from Me</a></th><th style="font-family:"Arial Black", Gadget, sans-serif !important;;font-size:22px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;background-color:#343434;color:#ffffff;text-align:center;vertical-align:top"><a href="contact">Contact</a></th></tr></table>
+
 <h1>Welcome to my Website!</h1>
 <p>If you need help with your courses and exams, or are just looking for some fun things for your free time, you have come to the right place!</p>
 <!-- Page Breaker(s)-->
@@ -15,7 +17,7 @@
 <!-- Page Breaker(s)-->
 <hr>
 
-<h1>Praktische Informatik + Exams</h1>
+<h1 id="pi">Praktische Informatik + Exams</h1>
 <p>Are you looking for old exams, or for some examples? Take a look at what I got!</p>
 
 <!--Klausuren Section-->
@@ -62,7 +64,7 @@
 <!-- Page Breaker(s)-->
 <hr>
 
-<h1>Things for your free-time</h1>
+<h1 id="free">Things for your free-time</h1>
 
 
 <!-- Android Studio -->
@@ -98,7 +100,7 @@
 <hr>
 
 <!-- Me-section -->
-<h1>More from Me...</h1>
+<h1 id="me">More from Me...</h1>
 
 Here you can find stuff that I do in my free-time...
 
@@ -140,7 +142,7 @@ Password Generator is completely FREE and AD-FREE, it works 100% offline an crea
 </ul>
 <br/>
 <hr>
-<h1>Contact</h1>
+<h1 id="contact">Contact</h1>
 <p>Should you require additional help or have any questions, do contact me under <a href="mailto:s_xsipo6@uni-bremen.de">s_xsipo6@uni-bremen.de</a> - You may write your message in either English, German, Arabic or Hebrew.</p>
 <p>For business inquiries, App development requests and other stuff, please contact me personally on one of my social media accounts:<ul><li>Instagram (Development and Photography): <a href="https://www.instagram.com/xleolion3">@xleolion3</a></li> 
 	<li>YouTube (Development): <a href="https://www.youtube.com/channel/UCesXd6uUzs3LGpHQXNAQ3sQ">StrongLions</a> / <a href="https://www.youtube.com/channel/UCxBBrZxnsifQsfCK_Rdbj3Q">The Hi-Tech Lounge</a></li></ul>
