@@ -37,6 +37,10 @@
 
 <img src="https://miro.medium.com/max/3118/1*iwPLQjyFYRTVeQ2cb4S9rA.png" width="850" height="250">
 
+<h4>Iterator, Comparable & more...</h4>
+<ul>
+	<li><code>Iterator Implementation</code> <a href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Iterator%20Implementation">(Github)</a></li>
+</ul>
 <!-- Nodes & more -->
 <h4>Nodes, Linked Lists, Trees & more...</h4>
 <ul>
