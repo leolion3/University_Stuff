@@ -39,7 +39,7 @@
 
 <h4>Iterator, Comparable & more...</h4>
 <ul>
-	<li><code>Iterator Implementation</code> <a href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Iterator%20Implementation">(Github)</a></li>
+	<li><code>Iterator Implementation</code> <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Iterator%20Implementation">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Iterator%20Implementation">(Github)</a></li>
 </ul>
 <!-- Nodes & more -->
 <h4>Nodes, Linked Lists, Trees & more...</h4>
