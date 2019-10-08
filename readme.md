@@ -140,7 +140,8 @@ Password Generator is completely FREE and AD-FREE, it works 100% offline an crea
 	The source code can be found on <a href="https://github.com/leolion3/App-Tutorial/tree/master/Password_Generator">Github</a></p>
   </ul>
   
-  <h2>YouTube</h2>
+  
+  <img src="https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c548.png" width="138" height="85">
   <ul>
   <li><h2><img src="https://yt3.ggpht.com/a/AGF-l78lu8bZDQn7_80Q2Hx8cXQepB5RWrGd2-cCQQ=s288-c-k-c0xffffffff-no-rj-mo" width="24" height="24"> YouTube Gaming Channel <a target="_blank" href="https://www.youtube.com/channel/UCesXd6uUzs3LGpHQXNAQ3sQ">(YouTube)</a></h2></li>
   <li><h2><img src="https://yt3.ggpht.com/a/AGF-l7_KHJdyFbiDJZkdoPPeKJ30GvW9HhPLKgZp5w=s288-c-k-c0xffffffff-no-rj-mo" width="24" height="24"> YouTube Channel (Tutorials & co) <a target="_blank" href="https://www.youtube.com/channel/UCxBBrZxnsifQsfCK_Rdbj3Q">(YouTube)</a></h2></li>
