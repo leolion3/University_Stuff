@@ -20,7 +20,7 @@ RESPONSIBLE FOR YOU ACTIONS! THIS SCRIPT IS FOR EDUCATIONAL PURPOSES ONLY!
 
 ========================================================================
 CHANGE THE PASSWORD USED BY EDITING THE DATA.bat FILE BEFORE CONTINUING
-DEFAULT PASSWORD IS password1234
+**DEFAULT PASSWORD IS: "password1234"**
 ========================================================================
 
 4. Type in the following: attrib +s +h DATA.bat and then: attrib +s +h usbdata
