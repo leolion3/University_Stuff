@@ -6,13 +6,13 @@ This script works by starting the same script file over and over again until
 the memory gets overloaded and your PC crashes (BLUE SCREEN MAY OCCUR)
 
 THIS IS FOR EDUCATIONAL PURPOSES ONLY! MISUSE OF THE PROVIDED CODE
-FOR PROHIBITED OR ILLEGAL ACTIVITIES CAN HAVE LEGAL CONSEQUENCES!
+FOR ILLEGAL ACTIVITIES IS PROHIBITED AND WILL HAVE LEGAL CONSEQUENCES!
 
 I AM NOT RESPONSIBLE FOR YOUR ACTIONS!
 
 ========================HOW IT WORKS========================
 
-The Script consists of 4 lines of Code, the first which can be left out.
+The Script consists of 4 lines of Code, the first can be taken out if you like.
 
 @ECHO off - prevents the SHELL from showing the actions it is performing
 
