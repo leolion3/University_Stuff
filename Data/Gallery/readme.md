@@ -2,4 +2,4 @@
 <p>Personal use of the images is allowed without any further restrictions. When used commercially, you have to provide a disclaimer and 
   quote Me - <a href="https://www.instagram.com/xleolion3">Leonard Haddad</a> as Copyright owner. 
 Furthermore, should the commercial use be used to promote other products, you have to provide a cut of the gained revenue.
-Should you fail to comply with these terms, you may and probably will face legal consequences.</p>
+Should you fail to comply with these terms, you will face legal consequences.</p>
