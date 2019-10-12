@@ -143,7 +143,7 @@ Password Generator is completely FREE and AD-FREE, it works 100% offline an crea
   <h2>Photo Editing & more...</h2>
   <ul>
 	<li><h3>Christmas Market Jish 2017 Flyer</h3>
-	<img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Christmas_2017.jpg?raw=true" width="400" height="282"></li>
+	<a href="https://github.com/leolion3/University_Stuff/blob/master/Data/Christmas_2017.jpg?raw=true" target="_blank"><img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Christmas_2017.jpg?raw=true" width="400" height="282"></a></li>
 </ul>
   
   <img src="https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c548.png" width="138" height="85">
