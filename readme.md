@@ -146,7 +146,7 @@ Password Generator is completely FREE and AD-FREE, it works 100% offline an crea
 	<a href="https://github.com/leolion3/University_Stuff/blob/master/Data/Christmas_2017.jpg?raw=true" target="_blank"><img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Christmas_2017.jpg?raw=true" width="400" height="282"></a></li>
 </ul>
 
-<h2>Gallery</h2>
+<h2>Gallery<a href="#terms">*</a></h2>
 <h4>Oslo & Lofoten Norway, August 2019</h4>
 <p><a href="https://github.com/leolion3/University_Stuff/blob/master/Data/Gallery/IMG_9135.JPG" target="_blank"><img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Gallery/IMG_9135.JPG?raw=true" width="150" height="100"></a>
 <a href="https://github.com/leolion3/University_Stuff/blob/master/Data/Gallery/IMG_9155.JPG" target="_blank"><img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Gallery/IMG_9155.JPG?raw=true" width="150" height="100"></a>
@@ -167,7 +167,7 @@ Password Generator is completely FREE and AD-FREE, it works 100% offline an crea
 <a href="https://github.com/leolion3/University_Stuff/blob/master/Data/Gallery/IMG_9702.JPG" target="_blank"><img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Gallery/IMG_9702.JPG?raw=true" width="150" height="100"></a>
 <a href="https://github.com/leolion3/University_Stuff/blob/master/Data/Gallery/IMG_9746.JPG" target="_blank"><img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Gallery/IMG_9746.JPG?raw=true" width="150" height="100"></a>
 <a href="https://github.com/leolion3/University_Stuff/blob/master/Data/Gallery/IMG_9792.JPG" target="_blank"><img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Gallery/IMG_9792.JPG?raw=true" width="150" height="100"></a></p>
-  
+<p id="terms">* Usage of these images is permitted according to the Terms of Use found <a href="https://github.com/leolion3/University_Stuff/blob/master/Data/Gallery/readme.md">Here</a>.</p>
   
   
   <img src="https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c548.png" width="138" height="85">
