@@ -163,7 +163,7 @@ Password Generator is completely FREE and AD-FREE, it works 100% offline an crea
 <img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Gallery/IMG_9502.JPG?raw=true" width="150" height="100">
 <img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Gallery/IMG_9594.JPG?raw=true" width="150" height="100">
 <img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Gallery/IMG_9635.JPG?raw=true" width="150" height="100">
-<img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Gallery/IMG_9635.JPG?raw=true" width="150" height="100">
+<img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Gallery/IMG_9676.JPG?raw=true" width="150" height="100">
 <img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Gallery/IMG_9702.JPG?raw=true" width="150" height="100">
 <img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Gallery/IMG_9746.JPG?raw=true" width="150" height="100">
 <img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Gallery/IMG_9792.JPG?raw=true" width="150" height="100"></p>
