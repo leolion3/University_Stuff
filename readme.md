@@ -139,7 +139,7 @@ Here you can find stuff that I do in my free-time...
   <p>Passwords can be a real hustle, especially when you have a thousand accounts for a gazillion different websites...<br />
   There are some great password generators out there, however how can you ever really trust such a service if it is not open sourced?<br />Stop worrying about your passwords today, with this Free, Open-Source Password Generator!<br />
 Password Generator is completely FREE and AD-FREE, it works 100% offline an creates you a password in seconds!<br />
-	The source code can be found on <a href="https://github.com/leolion3/App-Tutorial/tree/master/Password_Generator">Github</a></p>
+	The source code can be found on <a href="https://github.com/leolion3/App-Tutorial/tree/master/Password_Generator" target="_blank">Github</a></p>
   </ul>
   
   <h2>Photo Editing & more...</h2>
