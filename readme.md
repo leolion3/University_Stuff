@@ -13,7 +13,7 @@
 <h2>Tutorium (WiSe19/20)</h2>
 <h3>Slides</h3>
 <ul>
-	<li>Einführung - 17.10.19 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-1--17.10.2019.dps">(Github)</a></li>
+	<li>Einführung - 17.10.19 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-1--17.10.2019.dps?raw=true">(Download)</a></li>
 </ul>
 
 <!-- Page Breaker(s)-->
