@@ -10,8 +10,8 @@
 <hr>
 <h1 id="mi1">Medieninformatik</h1>
 <h2>Grundlagen der Medieninformatik 1</h2>
-<h2>Tutorium (WiSe19/20)</h2>
-<h3>Slides</h3>
+<h3>Tutorium T15(WiSe19/20)</h3>
+<h4>Slides</h4>
 <ul>
 	<li>Einführung - 17.10.19 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-1--17.10.2019.pdf?raw=true">(PDF)</a></li>
 </ul>
