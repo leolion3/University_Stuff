@@ -6,7 +6,7 @@
 <!-- Page Breaker(s)-->
 <hr>
 <h1>Who am I?</h1>
-<p>Hello and welcome!<br/> My name is Leonard Haddad.<br/> I am a 20 year old, Israeli-German computer science student at the University of Bremen in Germany.<br/> On this website you can find some stuff I created to help others out with their computer science courses, along with some other cool stuff that I do in my free-time.<br/>If you require additional help, or would like to file a development request, take a look at the <a href="#contact">Contact</a> section.</p>
+<p>Hello and welcome!<br/> My name is Leonard Haddad.<br/> I am a 20 year old, Israeli-German computer science student at the University of Bremen in Germany.<br/> On this website you can find some stuff I created to help others out with their courses, along with some other cool stuff I do in my free-time.<br/>If you require additional help, or would like to file a development request, take a look at the <a href="#contact">Contact</a> section.</p>
 <hr>
 <h1 id="mi1">Medieninformatik</h1>
 <h2>Grundlagen der Medieninformatik 1</h2>
