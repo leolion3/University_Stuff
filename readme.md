@@ -17,7 +17,8 @@
 </ul>
 <h4>Q&A</h4>
 <ul>
-	<li>Einführung - 17.10.19 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Q%26A/Q%26A%20MI1-1--17.10.2019.pdf?raw=true">(PDF)</a></li>
+	<li>Mensch-Medium-Maschine und Revolution/Evolution - 17.10.19 <a 
+href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Q%26A/Q%26A%20MI1-1--17.10.2019.pdf?raw=true">(PDF)</a></li>
 </ul>
 
 <!-- Page Breaker(s)-->
