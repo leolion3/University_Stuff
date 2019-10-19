@@ -39,6 +39,9 @@ href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%
 
 <!-- PI-1 -->
 <h2>Praktische Informatik 1: Imperative Programmierung und Objektorientierung</h2>
+<ul>
+	<li>Git - Introduction, Setup and Usage <a href="https://www.youtube.com/watch?v=Sn01deXJ7M4">(YouTube)</a></li>
+</ul>
 
 <!-- PI-2 -->
 <h2>Praktische Informatik 2: Algorithmen und Datenstrukturen</h2>
