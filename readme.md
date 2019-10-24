@@ -177,7 +177,7 @@ Password Generator is completely FREE and AD-FREE, it works 100% offline an crea
 </ul>
 * If sending a developement request, please do stick with English. Thank You!</p>
 <h4>Why Me?</h4>
-<p>If you are not convinced by the content on this page, then take a look at my <a href="https://github.com/leolion3/University_Stuff/blob/master/Data/CV-ENG.png?raw=true">CV</a></p>
+<p>If you are not convinced by the content on this page, then take a look at my <a href="https://github.com/leolion3/University_Stuff/blob/master/Data/CV-ENG.png?raw=true" target="_blank">CV</a></p>
 <h4><a href="#top">Back to Top</a></h4>
 <hr>
 <h5>DISCLAIMER</h5>
