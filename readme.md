@@ -1,7 +1,7 @@
 <head><link rel="icon" href="https://lh3.googleusercontent.com/asPozAuGQpJqNz-PB0yesBw9wRGkLDuquGqCf0p47rqBSvhxU5pdNHS27O5fuSF_RyY=s180-rw"></head>
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><tr><th style="font-family:Arial, sans-serif;font-size:20px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#228B22;background-color:#ffffff;color:#ffffff;text-align:center;vertical-align:top"><a href="#mi1"><font color="#228B22">MedienInformatik</font></a></th><th style="font-family:Arial, sans-serif;font-size:20px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#228B22;background-color:#ffffff;color:#ffffff;text-align:center;vertical-align:top"><a href="#pi"><font color="#228B22">Praktische Informatik</font></a></th><th style="font-family:Arial, sans-serif;font-size:20px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#228B22;background-color:#ffffff;color:#ffffff;text-align:center;vertical-align:top"><a href="#free"><font color="#228B22">Freetime &amp; more</font></a></th><th style="font-family:Arial, sans-serif;font-size:20px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#228B22;background-color:#ffffff;color:#ffffff;text-align:center;vertical-align:top"><a href="#me"><font color="#228B22">More from Me</font></a></th><th style="font-family:Arial, sans-serif;font-size:20px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#228B22;background-color:#ffffff;color:#ffffff;text-align:center;vertical-align:top"><a href="#contact"><font color="#228B22">Contact</font></a></th></tr></table>
 
-<h1>Welcome to my Website!</h1>
+<h1 id ="top">Welcome to my Website!</h1>
 <p>If you need help with your courses and exams, or are just looking for some fun things for your free time, you have come to the right place!</p>
 <!-- Page Breaker(s)-->
 <hr>
@@ -21,6 +21,7 @@
 	<li>Mensch-Medium-Maschine und Revolution/Evolution - 17.10.19 <a 
 href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Q%26A/Q%26A%20MI1-1--17.10.2019.pdf?raw=true">(PDF)</a></li>
 </ul>
+<h4><a href="#top">Back to Top</a></h4>
 
 <!-- Page Breaker(s)-->
 <hr>
@@ -79,6 +80,7 @@ href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%
   <li><code>Quicksort</code> <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/QuickSort" target="_blank">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/QuickSort">(Github)</a></li>
 </ul>
 
+<h4><a href="#top">Back to Top</a></h4>
 <!-- Page Breaker(s)-->
 <hr>
 
@@ -114,6 +116,7 @@ href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%
   </ul>
   <img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Shell.PNG?raw=true">
 
+<h4><a href="#top">Back to Top</a></h4>
 <!-- Page Breaker(s)-->
 <hr>
 
@@ -164,7 +167,7 @@ Password Generator is completely FREE and AD-FREE, it works 100% offline an crea
   <li><h2><img src="https://yt3.ggpht.com/a/AGF-l78lu8bZDQn7_80Q2Hx8cXQepB5RWrGd2-cCQQ=s288-c-k-c0xffffffff-no-rj-mo" width="24" height="24"> YouTube Gaming Channel <a target="_blank" href="https://www.youtube.com/channel/UCesXd6uUzs3LGpHQXNAQ3sQ">(YouTube)</a></h2></li>
   <li><h2><img src="https://yt3.ggpht.com/a/AGF-l7_KHJdyFbiDJZkdoPPeKJ30GvW9HhPLKgZp5w=s288-c-k-c0xffffffff-no-rj-mo" width="24" height="24"> YouTube Channel (Tutorials & co) <a target="_blank" href="https://www.youtube.com/channel/UCxBBrZxnsifQsfCK_Rdbj3Q">(YouTube)</a></h2></li>
 </ul>
-<br/>
+<h4><a href="#top">Back to Top</a></h4>
 <hr>
 <h1 id="contact">Contact</h1>
 <p>Should you require additional help or have any questions, do contact me under <a href="mailto:s_xsipo6@uni-bremen.de">s_xsipo6@uni-bremen.de</a> - You may write your message in either English, German, Arabic or Hebrew.</p>
@@ -172,7 +175,7 @@ Password Generator is completely FREE and AD-FREE, it works 100% offline an crea
 	<li>Instagram (Development and Photography): <a href="https://www.instagram.com/xleolion3">@xleolion3</a></li> 
 	<li>YouTube (Development): <a href="https://www.youtube.com/channel/UCesXd6uUzs3LGpHQXNAQ3sQ">StrongLions</a> / <a href="https://www.youtube.com/channel/UCxBBrZxnsifQsfCK_Rdbj3Q">The Hi-Tech Lounge</a></li></ul>
 	 * If sending a developement request, please do stick with English. Thank You!</p>
-<br/>
+<h4><a href="#top">Back to Top</a></h4>
 <hr>
 <h5>DISCLAIMER</h5>
 <p>The Google Play name and Logo are Copyrighted Google LLC. I do not claim, nor have any affiliation with Google.<br/>
