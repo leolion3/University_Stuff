@@ -43,7 +43,8 @@ href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%
 <h2>Praktische Informatik 1: Imperative Programmierung und Objektorientierung</h2>
 <ul>
 	<li><code>Git - Introduction, Setup and Usage</code> <a href="https://www.youtube.com/watch?v=Sn01deXJ7M4">(YouTube)
-<br/>	<img src="https://i.ytimg.com/vi/Sn01deXJ7M4/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBauobLAHH7X1wdNzSEWs3E5VzbzQ"></a></li>
+<br/>	<img src="https://i.ytimg.com/vi/Sn01deXJ7M4/hqdefault.jpg?sqp=-oaymwEYCMQBEG5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLArEVQdvLBXRkofro_XIX232dnezA"></a></li>
+	<li><code>Setup SSH in Git</code> <a href="https://www.youtube.com/watch?v=Px15O0sKXS0">(YouTube) <br/> <img src="https://i.ytimg.com/vi/Px15O0sKXS0/hqdefault.jpg?sqp=-oaymwEYCMQBEG5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDsxw1t6dvNUnEoRgCc0kilbqWbMw"></a></li>
 </ul>
 
 <!-- PI-2 -->
