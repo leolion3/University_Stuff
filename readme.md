@@ -93,27 +93,27 @@ href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%
 
 <h3><img src="https://docs.microsoft.com/en-us/powershell/media/index/powershell_128.svg" width="38" height="24">PowerShell</h3>
 <ul>
-	<li>Bubble Sort <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Powershell/Algorithms/BubbleSort">(Github)</a></li>
+	<li><code>Bubble Sort</code> <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Powershell/Algorithms/BubbleSort">(Github)</a></li>
 </ul>
 <!-- Batch -->
 <h3>Windows BATCH</h3>
-<ul><li>BATCH Introduction <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Github)</a></li>
-  <li> Password-Protected Self-Defending USB <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL/2.%20Password-Protected%20Self-Defending%20USB">(Github)</a> </li>
-  <li> 3-Line PC crasher <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL/3.%20PC%20CRASHER">(Github) </a> </li> </ul>
+<ul><li><code>BATCH Introduction</code> <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Github)</a></li>
+  <li> <code>Password-Protected Self-Defending USB</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL/2.%20Password-Protected%20Self-Defending%20USB">(Github)</a> </li>
+  <li> <code>3-Line PC crasher</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL/3.%20PC%20CRASHER">(Github) </a> </li> </ul>
 
 <!-- Python Section -->
 <image src="https://www.python.org/static/img/python-logo.png" width="168" height="50"/>
 
 <h4>Algorithms:</h4>
 <ul>
-	<li>Bubble-Sort <a target="_blank" href="https://github.com/leolion3/University_Stuff/blob/master/Etc%20in%20der%20Freizeit/Python/Algorithms/BubbleSort.py">(Github)</a></li>
+	<li><code>Bubble-Sort</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/blob/master/Etc%20in%20der%20Freizeit/Python/Algorithms/BubbleSort.py">(Github)</a></li>
 </ul>
 
 <h4>Networking and more:</h4>
-  <ul> <li>Chatroom using TCP Sockets <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Chatroom">(Github)</a></li>
-  <li> Network Tool <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Network%20Tool">(Github)</a> </li>
-  <li> Open-Port Checker <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/PortChecker">(Github)</a></li>
-  <li> Reverse-Shell <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Python%20Reverse%20Shell">(Github)</a> </li>
+  <ul> <li><code>Chatroom using TCP Sockets</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Chatroom">(Github)</a></li>
+  <li> <code>Network Tool</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Network%20Tool">(Github)</a> </li>
+  <li> <code>Open-Port Checker</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/PortChecker">(Github)</a></li>
+	<li> <code>Reverse-Shell</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Python%20Reverse%20Shell">(Github)</a> </li>
   </ul>
   <img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Shell.PNG?raw=true">
 
