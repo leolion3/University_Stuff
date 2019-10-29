@@ -172,9 +172,10 @@ Password Generator is completely FREE and AD-FREE, it works 100% offline an crea
 <hr>
 <h1 id="contact">Contact</h1>
 <p>Should you require additional help or have any questions, do contact me under <a href="mailto:s_xsipo6@uni-bremen.de">s_xsipo6@uni-bremen.de</a> - You may write your message in either English, German, Arabic or Hebrew.</p>
-<p>For business inquiries, App development requests and other stuff, please contact me personally on one of my social media accounts:<ul><li>Facebook (General Purpose): <a href="https://www.facebook.com/leonard.haddad">Leonard Haddad</a></li>
-	<li>Instagram (Development and Photography): <a href="https://www.instagram.com/xleolion3">@xleolion3</a></li> 
-	<li>YouTube (Development): <a href="https://www.youtube.com/channel/UCesXd6uUzs3LGpHQXNAQ3sQ">StrongLions</a> / <a href="https://www.youtube.com/channel/UCxBBrZxnsifQsfCK_Rdbj3Q">The Hi-Tech Lounge</a></li>
+<p>For business inquiries, App development requests and other stuff, please contact me personally on one of my social media accounts:
+<ul><li>Facebook (General Purpose): <a target="_blank"href="https://www.facebook.com/leonard.haddad">Leonard Haddad</a></li>
+	<li>Instagram (Development and Photography): <a target="_blank" href="https://www.instagram.com/xleolion3">@xleolion3</a></li> 
+	<li>YouTube (Development): <a target="_blank" href="https://www.youtube.com/channel/UCesXd6uUzs3LGpHQXNAQ3sQ">StrongLions</a> / <a href="https://www.youtube.com/channel/UCxBBrZxnsifQsfCK_Rdbj3Q">The Hi-Tech Lounge</a></li>
 </ul>
 * If sending a developement request, please do stick with English. Thank You!</p>
 <h4>Why Me?</h4>
