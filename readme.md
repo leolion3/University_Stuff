@@ -51,7 +51,7 @@ href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%
 <h3>Beispiele</h3>
 <ul>
 	<li>LaTeX Introduction <a href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%201%20-%20Imperative%20Programmierung%20und%20Objektorientierung/LaTeX%20Introduction">(Github)</a></li>
-<\ul>
+</ul>
 
 <!-- PI-2 -->
 <h2>Praktische Informatik 2: Algorithmen und Datenstrukturen</h2>
