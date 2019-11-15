@@ -48,7 +48,7 @@ href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%
 	<li><code>Setup SSH in Git</code> <a target="_blank" href="https://www.youtube.com/watch?v=Px15O0sKXS0">(YouTube) <br/> <img src="https://i.ytimg.com/vi/Px15O0sKXS0/hqdefault.jpg?sqp=-oaymwEYCMQBEG5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDsxw1t6dvNUnEoRgCc0kilbqWbMw"></a></li>
 </ul>
 
-<h3>Beispiele<h3>
+<h3>Beispiele</h3>
 <ul>
 	<li>LaTeX Introduction <a href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%201%20-%20Imperative%20Programmierung%20und%20Objektorientierung/LaTeX%20Introduction">(Github)</a></li>
 <\ul>
