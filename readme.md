@@ -16,6 +16,7 @@
 	<li>Einführung - 17.10.19 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-1--17.10.2019.pdf?raw=true">(PDF)</a></li>
 	<li>Menschliche Wahrnehmung - 24.10.19 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-2--24.10.2019.pdf?raw=true">(PDF)</a></li>
   <li>Digitalisierung - 07.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-3--07.11.2019.pdf?raw=true">(PDF)</a></li>
+	<li>Kodierung - 14.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-4--14.11.2019.pdf?raw=true">(PDF)</a></li>
 </ul>
 <h4>Q&A</h4>
 <ul>
