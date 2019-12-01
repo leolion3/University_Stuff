@@ -18,6 +18,7 @@
   <li>Digitalisierung - 07.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-3--07.11.2019.pdf?raw=true">(PDF)</a></li>
 	<li>Kodierung - 14.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-4--14.11.2019.pdf?raw=true">(PDF)</a></li>
 	<li>JPEG DCT - 21.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-5--21.11.2019.pdf?raw=true">(PDF)</a></li>
+	<li>JPEG - 28.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-6--28.11.2019.pdf?raw=true">(PDF)</a></li>
 </ul>
 <h4>Q&A</h4>
 <ul>
