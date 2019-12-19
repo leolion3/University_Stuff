@@ -61,6 +61,12 @@
 	<li>
 		JPEG - 28.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-6--28.11.2019.pdf?raw=true">(PDF)</a>
 	</li>
+	<li>
+		Anwendungstutorium GIMP - 12.12.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-8--12.12.2019.pdf?raw=true">(PDF)</a>
+	</li>
+	<li>
+		Anwendungstutorium Audacity - 19.12.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-9--19.12.2019.pdf?raw=true">(PDF)</a>
+	</li>
 </ul>
 <h4>Q&A</h4>
 <ul>
