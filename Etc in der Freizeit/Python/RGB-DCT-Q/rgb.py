@@ -109,6 +109,8 @@ def y(r,g,b):
 
 
 def calculate():
+    global l1,l2
+    l1,l2 = [],[]
     global b1,b2,b3,b4
     global y1,y2,y3,y4
     global cb1,cb2,cb3,cb4
