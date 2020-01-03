@@ -23,7 +23,57 @@ def clear():
         
 def quantisieren():
     global q1,q2,q3,q4
-    print("|" + str(round(round(0.5*(float(y1)+float(y2)+float(y3)+float(y4)),2)/float(q1))) + "|" + str(round(round(0.5*(float(y1)-float(y2)+float(y3)-float(y4)),2)/float(q2))) + "|\n|" + str(round(round(0.5*(float(y1)+float(y2)-float(y3)-float(y4)),2)/float(q3))) + "|" + str(round(round(0.5*(float(y1)-float(y2)-float(y3)+float(y4)),2)/float(q4))) + "|\n" )
+    a1 = round(round(0.5*(float(y1)+float(y2)+float(y3)+float(y4)),2)/float(q1))
+    a2 = round(round(0.5*(float(y1)-float(y2)+float(y3)-float(y4)),2)/float(q2))
+    a3 = round(round(0.5*(float(y1)+float(y2)-float(y3)-float(y4)),2)/float(q3))
+    a4 = round(round(0.5*(float(y1)-float(y2)-float(y3)+float(y4)),2)/float(q4))
+    lst = [a1,a2,a3,a4]
+    print("|" + str(a1) + "|" + str(a2) + "|\n|" + str(a3) + "|" + str(a4) + "|\n\n" )
+    print("Values:\n")
+    s1,s2,s3=0,0,0
+    if a1!=0:
+        print("(0,"+str(a1)+") ")
+    elif a2!=0:
+        s1=1
+        print("(1,"+str(a2)+") ")
+    elif a3!=0:
+        s2=1
+        print("(2,"+str(a3)+") ")
+    elif a4!=0:
+        s3=1
+        print("(3,"+str(a4)+") ")
+    else:
+        s1,s2,s3=1,1,1
+        print("(0,0) ")
+        
+    if s1==0:
+        if a2!=0:
+            print("(0,"+str(a2)+") ")
+        elif a3!=0:
+            s2=1
+            print("(1,"+str(a3)+") ")
+        elif a4!=0:
+            s3=1
+            print("(2,"+str(a4)+") ")
+        else:
+            s1,s2,s3=1,1,1
+            print("(0,0) ")
+    if s2==0:
+        if a3!=0:
+            print("(0,"+str(a3)+") ")
+        elif a4!=0:
+            s3=1
+            print("(1,"+str(a4)+") ")
+        else:
+            s1,s2,s3=1,1,1
+            print("(0,0) ")
+    if s3==0:
+        if a4!=0:
+            print("(0,"+str(a4)+") ")
+        else:
+            s1,s2,s3=1,1,1
+            print("(0,0) ")
+    print("\n")
 
 
 # Calculate dct using the dct formulas
@@ -74,7 +124,7 @@ def calculate():
     print("Cb heruntergesamplet:"+str(round(float(cb1) + float(cb2) + float(cb3) + float(cb4),1)/4)+"\n")
     print("Cr:\n|" + cr1 +"|"+ cr2 +"|\n|"+ cr3 +"|"+ cr4 +"|\n\n")
     print("Cr heruntergesamplet:"+str(round(float(cr1) + float(cr2) + float(cr3) + float(cr4),1)/4)+"\n")
-    print("DCT:\n")
+    print("DCT:")
     dct()
     print("Quantisiert:")
     quantisieren()
