@@ -205,15 +205,8 @@ href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%
 <!-- Python Section -->
 <image src="https://www.python.org/static/img/python-logo.png" width="168" height="50"/>
 
-<h4>Algorithms:</h4>
 <ul>
 	<li>
-		<code>Bubble-Sort</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/blob/master/Etc%20in%20der%20Freizeit/Python/Algorithms/BubbleSort.py">(Github)</a>
-	</li>
-</ul>
-
-<h4>Networking and more:</h4>
-  <ul>
 		<li><code>Chatroom using TCP Sockets</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Chatroom">(Github)</a>
 		</li>
   <li>
@@ -224,6 +217,9 @@ href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%
 	</li>
 	<li>
 		<code>Reverse-Shell</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Python%20Reverse%20Shell">(Github)</a>
+	</li>
+	<li>
+		<code>RGB-YCbCr-DCT Converter (MI-1)</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/RGB-DCT-Q">(Github)</a>
 	</li>
 </ul>
   <img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Shell.PNG?raw=true">
