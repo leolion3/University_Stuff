@@ -206,12 +206,12 @@ href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%
 <image src="https://www.python.org/static/img/python-logo.png" width="168" height="50"/>
 
 <ul>
-		<li><code>Chatroom using TCP Sockets</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Chatroom">(Github)</a>
-		</li>
-  <li>
+	<li><code>Chatroom using TCP Sockets</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Chatroom">(Github)</a>
+	</li>
+ 	 <li>
 		<code>Network Tool</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Network%20Tool">(Github)</a>
 	</li>
-  <li>
+  	<li>
 		<code>Open-Port Checker</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/PortChecker">(Github)</a>
 	</li>
 	<li>
