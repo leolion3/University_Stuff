@@ -1,8 +1,6 @@
 <head>
 	<link rel="icon" href="https://lh3.googleusercontent.com/asPozAuGQpJqNz-PB0yesBw9wRGkLDuquGqCf0p47rqBSvhxU5pdNHS27O5fuSF_RyY=s180-rw">
 </head>
-
-<body>
 		<table style="border-collapse:collapse;border-spacing:0" class="tg">
 			<tr>
 				<th style="font-family:Arial, sans-serif;font-size:20px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#228B22;background-color:#ffffff;color:#ffffff;text-align:center;vertical-align:top">
@@ -341,4 +339,3 @@
 			Powershell and the Powershell Logo are copyrighted Microsoft Corporation. I do not claim, nor have any affiliation with them.<br/>
 			Python, the name and the Logo are copyrighted trademarks of the Python Software Foundation. I do not claim, nor have any affiliation with them.
 		</p>
-	</body>
