@@ -1,5 +1,3 @@
-<html>
-
 <head>
 	<link rel="icon" href="https://lh3.googleusercontent.com/asPozAuGQpJqNz-PB0yesBw9wRGkLDuquGqCf0p47rqBSvhxU5pdNHS27O5fuSF_RyY=s180-rw">
 </head>
@@ -344,4 +342,3 @@
 			Python, the name and the Logo are copyrighted trademarks of the Python Software Foundation. I do not claim, nor have any affiliation with them.
 		</p>
 	</body>
-</html>
