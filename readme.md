@@ -68,7 +68,7 @@
 		Anwendungstutorium Audacity - 19.12.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-9--19.12.2019.pdf?raw=true">(PDF)</a>
 	</li>
 	<li>
-		Anwendungstutorium HTML und CSS - 09.01.2020 <a href="">(PDF)</a>
+		Anwendungstutorium HTML und CSS - 09.01.2020 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-10--09.01.2020.pdf?raw=true">(PDF)</a>
 	</li>
 </ul>
 <h4>Q&A</h4>
@@ -77,6 +77,10 @@
 href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Q%26A/Q%26A%20MI1-1--17.10.2019.pdf?raw=true">(PDF)</a></li>
 </ul>
 
+<h4>Tutorial</h4>
+<ul>
+	<li>HTML Tutorial <a href="https://www.youtube.com/watch?v=4Cgdgu2_0nw" target="_blank">(YouTube)<br><img src="https://i.ytimg.com/vi/4Cgdgu2_0nw/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBGsQ7snrjDyFBxnKhyiIsCLErFbg"></a></li>
+</ul>
 <h4>
 	<a href="#top">Back to Top</a>
 </h4>
