@@ -67,6 +67,9 @@
 	<li>
 		Anwendungstutorium Audacity - 19.12.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-9--19.12.2019.pdf?raw=true">(PDF)</a>
 	</li>
+	<li>
+		Anwendungstutorium HTML und CSS - 09.01.2020 <a href="">(PDF)</a>
+	</li>
 </ul>
 <h4>Q&A</h4>
 <ul>
