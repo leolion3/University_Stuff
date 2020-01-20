@@ -4,13 +4,13 @@ A little text editor created using Tkinter and Python.
 
 <hr>
 
-###Functionalities:
+<h2>Functionalities:</h2>
 <ul>
 	<li>Write and Preview HTML/Markdown Code</li>
 	<li>Execute Code (other programming languages)</li>
 </ul>
 
-###Shortcut Keys:
+<h2>Shortcut Keys:</h2>
 <ul>
 	<li>Open File: Ctrl + o</li>
 	<li>Save File: Ctrl + s</li>
