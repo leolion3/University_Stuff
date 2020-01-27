@@ -228,7 +228,7 @@ href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%
 	<li>
 		<code>RGB-YCbCr-DCT Converter (MI-1)</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/RGB-DCT-Q">(Github)</a>
 	</li>
-	<li><code>Youtube MP3 Video Downloader <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/YouTube%20Video%20Downloader">(Github)</a></code></li>
+	<li><code>Youtube MP3 Video Downloader </code><a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/YouTube%20Video%20Downloader">(Github)</a></li>
 </ul>
   <img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Shell.PNG?raw=true">
 
