@@ -1,7 +1,3 @@
-# This script is inspired by the article How to Build a Toy 
-# Markdown Editor with Python and Tkinter By Palash Bauri
-# link: https://www.freecodecamp.org/news/lets-create-a-toy-markdown-editor-with-python-tkinter/
-
 from tkinter import *
 from tkinter import font, filedialog
 from markdown2 import Markdown
@@ -17,6 +13,7 @@ class Window(Frame):
     currentFile = ""
     backgroundColor = "gray10"
     fgColor = "white"
+    fgCodeColor = "red"
     language = "txt"
     
     
@@ -128,7 +125,42 @@ class Window(Frame):
         self.inputeditor.bind("<Control-r>",self.execute_programA)
         self.inputeditor.bind("<Control-p>",self.html_previewA)
         self.inputeditor.bind("<Control-o>",self.openfileA)
+        self.inputeditor.bind("<Control-plus>",self.increaseTextSize)
+        self.inputeditor.bind("<Control-minus>",self.decreaseFontSize)
+        
+        self.inputeditor.tag_configure("red",foreground="red")
+        self.inputeditor.bind("<Control-f>",self.highlight_pattern("[def]","red"))
+        
+        
     
+    def highlight_pattern(self,pattern,tag,start="1.0",end="end",regexp=False):
+        start = self.inputeditor.index(start)
+        end = self.inputeditor.index(end)
+        self.inputeditor.mark_set("matchStart", start)
+        self.inputeditor.mark_set("matchEnd", start)
+        self.inputeditor.mark_set("searchLimit", end)
+
+        count = IntVar()
+        while True:
+            index = self.inputeditor.search(pattern, "matchEnd","searchLimit", count=count, regexp=regexp)
+            if index == "": break
+            if count.get() == 0: break # degenerate pattern which matches zero-length strings
+            self.inputeditor.mark_set("matchStart", index)
+            self.inputeditor.mark_set("matchEnd", "%s+%sc" % (index, count.get()))
+            self.inputeditor.tag_add(tag, "matchStart", "matchEnd")
+    
+    
+    # ===== Change Text Size =====
+    def increaseTextSize(self,master):
+        self.fontSize = self.fontSize+1
+        self.myfont = font.Font(family = self.currentFont, size = self.fontSize)
+        self.inputeditor.config(font = self.myfont)
+    
+    def decreaseFontSize(self,master):
+        self.fontSize = self.fontSize-1
+        self.myfont = font.Font(family = self.currentFont, size = self.fontSize)
+        self.inputeditor.config(font = self.myfont)
+
     
     # ===== Update Preview ===== 
     def onInputChangeA(self,master):
@@ -171,9 +203,16 @@ class Window(Frame):
         else:
             self.outputbox.forget()
             self.preview = False
-            
-            
+    
+              
+    # ===== Save before Exit =====
+    def on_close(self):
+        self.save()
+        self.quit()
+    
+    
 root = Tk()
 root.geometry("700x600")
 app = Window(root)
+root.protocol("WM_DELETE_WINDOW", app.on_close)
 app.mainloop()
