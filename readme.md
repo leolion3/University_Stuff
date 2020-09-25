@@ -299,7 +299,7 @@ Here you can find stuff that I do in my free-time...
 	</li>
 </ul>
 
-<img src="https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c548.png" width="138" height="85">
+<img src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo.png" width="138" height="85">
 <ul>
   <li>
 		<h2>
