@@ -52,11 +52,10 @@
 		Menschliche Wahrnehmung - 12.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-2--12.11.2020.pdf?raw=true">(PDF)</a>
 	</li>
 	<li>
-		Digitalisierung - 19.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-3--19.11.2020.pdf?raw=true>(PDF)</a>
+		Digitalisierung - 19.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-3--19.11.2020.pdf?raw=true">(PDF)</a>
 	</li>
 	<li>
-		Kodierung - 26.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-4--26.11.2020.pdf?raw=true">(PDF)</a>
-	</li>
+		Kodierung - 26.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-4--26.11.2020.pdf?raw=true">(PDF)</a>	</li>
 </ul>
 
 <hr>
