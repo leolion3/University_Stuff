@@ -34,12 +34,33 @@
 <h1 id ="top">Welcome to my Website!</h1>
 <p>If you need help with your courses and exams, or are just looking for some fun things for your free time, you have come to the right place! For more cool stuff, check out my other <a href="https://leolion3.github.io/Portfolio">website!</a></p>
 <!-- Page Breaker(s)-->
-<hr>
 <h1>Who am I?</h1>
 <p>Hello and Welcome!<br/> My name is Leonard Haddad.<br/> I am a 20 year old, Israeli-German Computer-Science student at the University of Bremen in Germany.<br/> On this Website you can find some stuff I created to help others out with their courses, along with some other cool stuff I do in my free-time.<br/>If you require additional help, or would like to file a development request, take a look at the <a href="#contact">Contact</a> section.</p>
 <hr>
 <h1 id="mi1">Medieninformatik</h1>
 <h2>Grundlagen der Medieninformatik 1</h2>
+
+<h3>Tutorium T12 (WiSe20/21)</h3>
+
+<h4>Slides</h4>
+
+<ul>
+	<li>
+		Einführung - 5.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-1--5.11.2020.pdf?raw=true">(PDF)</a>
+	</li>
+	<li>
+		Menschliche Wahrnehmung - 12.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-2--12.11.2020.pdf?raw=true">(PDF)</a>
+	</li>
+	<li>
+		Digitalisierung - 19.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-3--19.11.2020.pdf?raw=true>(PDF)</a>
+	</li>
+	<li>
+		Kodierung - 26.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-4--26.11.2020.pdf?raw=true">(PDF)</a>
+	</li>
+</ul>
+
+<hr>
+
 <h3>Tutorium T15 (WiSe19/20)</h3>
 <h4>Slides</h4>
 <ul>
