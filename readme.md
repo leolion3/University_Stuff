@@ -32,7 +32,7 @@
 </table>
 
 <h1 id ="top">Welcome to my Website!</h1>
-<p>If you need help with your courses and exams, or are just looking for some fun things for your free time, you have come to the right place!</p>
+<p>If you need help with your courses and exams, or are just looking for some fun things for your free time, you have come to the right place! For more cool stuff, check out mz other <a href="https://leolion3.github.io/Portfolio">website!</a></p>
 <!-- Page Breaker(s)-->
 <hr>
 <h1>Who am I?</h1>
