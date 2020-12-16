@@ -35,7 +35,7 @@
 <p>If you need help with your courses and exams, or are just looking for some fun things for your free time, you have come to the right place! For more cool stuff, check out my other <a href="https://leolion3.github.io/Portfolio">website!</a></p>
 <!-- Page Breaker(s)-->
 <h1>Who am I?</h1>
-<p>Hello and Welcome!<br/> My name is Leonard Haddad.<br/> I am a 20 year old, Israeli-German Computer-Science student at the University of Bremen in Germany.<br/> On this Website you can find some stuff I created to help others out with their courses, along with some other cool stuff I do in my free-time.<br/>If you require additional help, or would like to file a development request, take a look at the <a href="#contact">Contact</a> section.</p>
+<p>Hello and Welcome!<br/> My name is Leonard Haddad.<br/> I am a 21 year old, Israeli-German Computer-Science student at the University of Bremen in Germany.<br/> On this Website you can find some stuff I created to help others out with their courses, along with some other cool stuff I do in my free-time.<br/>If you require additional help, or would like to file a development request, take a look at the <a href="#contact">Contact</a> section.</p>
 <hr>
 <h1 id="mi1">Medieninformatik</h1>
 <h2>Grundlagen der Medieninformatik 1</h2>
