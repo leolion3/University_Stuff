@@ -56,6 +56,15 @@
 	</li>
 	<li>
 		Kodierung - 26.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-4--26.11.2020.pdf?raw=true">(PDF)</a>	</li>
+	<li>
+		Bildmanipulation-1, Medienrecht, Gruppenfindung - 3.12.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-5--03.12.2020.pdf?raw=true">(PDF)</a>
+	</li>
+	<li>
+		AT-Gimp - 10.12.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-6--10.12.2020.pdf?raw=true">(PDF)</a>
+	</li>
+	<li>
+		Konzeptvorstellung - 17.12.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-7--17.12.2020.pdf?raw=true">(PDF)</a>
+	</li>
 </ul>
 
 <hr>
