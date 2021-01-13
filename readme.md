@@ -65,6 +65,12 @@
 	<li>
 		Konzeptvorstellung - 17.12.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-7--17.12.2020.pdf?raw=true">(PDF)</a>
 	</li>
+	<li>
+		JPEG - 07.01.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-8--07.01.2021.pdf?raw=true">(PDF)</a>
+	</li>
+	<li>
+		AT-Audacity - 14.01.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-9--14.01.2021.pdf?raw=true">(PDF)</a>
+	</li>
 </ul>
 
 <hr>
