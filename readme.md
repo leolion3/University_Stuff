@@ -78,6 +78,7 @@ Hello and Welcome!<br/> My name is Leonard Haddad.<br/> I am a 21 year old, Isra
 
 #### Slides
 
+{% capture p2 %}
 - Einführung - 17.10.19 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-1--17.10.2019.pdf?raw=true">(PDF)</a>
 - Menschliche Wahrnehmung - 24.10.19 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-2--24.10.2019.pdf?raw=true">(PDF)</a>
 - Digitalisierung - 07.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-3--07.11.2019.pdf?raw=true">(PDF)</a>
@@ -87,7 +88,7 @@ Hello and Welcome!<br/> My name is Leonard Haddad.<br/> I am a 21 year old, Isra
 - Anwendungstutorium GIMP - 12.12.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-8--12.12.2019.pdf?raw=true">(PDF)</a>
 - Anwendungstutorium Audacity - 19.12.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-9--19.12.2019.pdf?raw=true">(PDF)</a>
 - Anwendungstutorium HTML und CSS - 09.01.2020 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-10--09.01.2020.pdf?raw=true">(PDF)</a>
-
+	
 #### Q&A
 
 - Mensch-Medium-Maschine und Revolution/Evolution - 17.10.19 <a
@@ -96,6 +97,7 @@ href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/
 #### Tutorial
 
 - HTML Tutorial <a href="https://www.youtube.com/watch?v=4Cgdgu2_0nw" target="_blank">(YouTube)<br><img src="https://i.ytimg.com/vi/4Cgdgu2_0nw/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBGsQ7snrjDyFBxnKhyiIsCLErFbg"></a></li>
+{% endcapture %} {{ p2 | markdownify }}
 
 </details>
 
@@ -108,6 +110,7 @@ href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/
 
 #### Slides
 
+{% capture p3 %}
 - Drehbuch und Gruppenbildung - 13.04.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-1--13.04.2021.pdf?raw=true">(PDF)</a>
 - Kamera und Bild, Drehbuchvorstellung - 20.04.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-2--20.04.2021.pdf?raw=true">(PDF)</a>
 - Storyboards - 27.04.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-3--27.04.2021.pdf?raw=true">(PDF)</a>
@@ -122,7 +125,8 @@ href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/
 - Animationen und Compositing - 29.06.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-12--29.06.2021.pdf?raw=true">(PDF)</a>
 - AT-Unity - 06.07.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-13--06.07.2021.pdf?raw=true">(PDF)</a>
 - Fragestunde - 13.07.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-14--13.07.2021.pdf?raw=true">(PDF)</a>
-
+{% endcapture %} {{ p3 | markdownify }}
+	
 </details>
 
 <h4>
