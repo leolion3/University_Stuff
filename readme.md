@@ -76,9 +76,10 @@ Hello and Welcome!<br/> My name is Leonard Haddad.<br/> I am a 21 year old, Isra
   	<b style="color: purple;">Tutorium T15 (WiSe19/20)</b>
   </summary> 
 
+{% capture p2 %}
+	
 #### Slides
 
-{% capture p2 %}
 - Einführung - 17.10.19 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-1--17.10.2019.pdf?raw=true">(PDF)</a>
 - Menschliche Wahrnehmung - 24.10.19 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-2--24.10.2019.pdf?raw=true">(PDF)</a>
 - Digitalisierung - 07.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-3--07.11.2019.pdf?raw=true">(PDF)</a>
@@ -108,9 +109,9 @@ href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/
   	<b style="color: purple;">Tutorium T04 (SoSe21)</b>
   </summary> 
 
+{% capture p3 %}
 #### Slides
 
-{% capture p3 %}
 - Drehbuch und Gruppenbildung - 13.04.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-1--13.04.2021.pdf?raw=true">(PDF)</a>
 - Kamera und Bild, Drehbuchvorstellung - 20.04.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-2--20.04.2021.pdf?raw=true">(PDF)</a>
 - Storyboards - 27.04.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-3--27.04.2021.pdf?raw=true">(PDF)</a>
