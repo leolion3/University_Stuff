@@ -154,7 +154,7 @@ Are you looking for old exams, or for some examples? Take a look at what I got!
 
 ### Beispiele
 
-- LaTeX Introduction <a href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%201%20-%20Imperative%20Programmierung%20und%20Objektorientierung/LaTeX%20Introduction">(Github)</a></li>
+- LaTeX Introduction <a href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%201%20-%20Imperative%20Programmierung%20und%20Objektorientierung/LaTeX%20Introduction">(Github)</a>
 
 ## Praktische Informatik 2: Algorithmen und Datenstrukturen
 
