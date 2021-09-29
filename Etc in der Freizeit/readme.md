@@ -1,26 +1,6 @@
-<h1>================Welcome================</h1>
+# Disclaimer
 
-<p>At this section you can find some cool stuff you
-can do in your FREE TIME. I hope you like it.</p>
-
-<h3>READ THIS BEFORE PROCCEEDING:</h3>
-<p>BY VIEWING THIS SECTION AND TESTING ITS TOOLS YOU ARE AGREEING TO THE TERMS OF USAGE AND THE DISCLAIMER BELOW.
-YOU, AND YOU ONLY, WILL BE HELD ACCOUNTABLE FOR ANY MISUSE OF THE TOOLS PROVIDED HERE.</p>
-
-
-
-
-
-
-<h2>============TERMS OF USAGE============</h2>
-<p>USAGE OF THE SCRIPTS IS PERMITTED FOR EDUCATIONAL AND PEN-TESTING USE ONLY ON SYSTEMS
-THAT YOU HAVE PROPER PERMISSION TO USE. SHALL YOU DECIDE TO ABUSE THESE SCRIPTS FOR
-MALICIOUS ACTIVITIES, YOU, AND YOU ONLY, WILL BE HELD RESPONSIBLE.
-YOU ARE RESPONSIBLE FOR YOUR OWN ACTIONS, AND I SHALL, AND WILL NOT BE HELD RESPONSIBLE
-FOR ANY MISUSE OF THESE SCRIPTS. BY USING THESE SCRIPTS, YOU ARE AGREEING TO THESE TERMS
-AND THE DISCLAIMER BELOW. YOU HAVE BEEN WARNED!</p>
-<h2>==============DISCLAIMER==============</h2>
-<p>THE PROVIDED SCRIPTS ARE FOR EDUCATIONAL PURPOSES ONLY.
-THESE SCRIPTS ARE INTENTED FOR THAT, AND PEN-TESTING PURPOSES ONLY!
-MISUSE AND OR ABUSE OF THIS TOOL IS FORBIDDEN AND WILL HAVE LEGAL CONSEQUENCES. I SHALL
-AND WILL NOT BE HELD RESPONSIBLE FOR ANY MISUSE OF THE PROVIDED SCRIPTS.</p>
+Some of the here provided tools could theoretically be used for nefarious purposes. Should this be done, I shall not be held accountable on any ends.
+You are free to modify and use these tools at will, misuse for illegal activities however, is strictly prohibited.
+Should any damage be caused by any of the here provided tools, the user shall be held accountable for the caused damage. 
+By using any of the provided tools you are agreeing to be held accountable for whatever damage is caused by your actions.
