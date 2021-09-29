@@ -32,248 +32,189 @@
 </table>
 
 <h1 id ="top">Welcome to my Website!</h1>
-<p>If you need help with your courses and exams, or are just looking for some fun things for your free time, you have come to the right place! For more cool stuff, check out my other <a href="https://leolion3.github.io/Portfolio">website!</a></p>
-<!-- Page Breaker(s)-->
-<h1>Who am I?</h1>
-<p>Hello and Welcome!<br/> My name is Leonard Haddad.<br/> I am a 21 year old, Israeli-German Computer-Science student at the University of Bremen in Germany.<br/> On this Website you can find some stuff I created to help others out with their courses, along with some other cool stuff I do in my free-time.<br/>If you require additional help, or would like to file a development request, take a look at the <a href="#contact">Contact</a> section.</p>
+
+If you need help with your courses and exams, or are just looking for some fun things for your free time, you have come to the right place! For more cool stuff, check out my other <a href="https://leolion.tk">website!</a>
+
+# Who am I?
+
+Hello and Welcome!<br/> My name is Leonard Haddad.<br/> I am a 21 year old, Israeli-German Computer-Science student at the University of Bremen in Germany.<br/> On this Website you can find some stuff I created to help others out with their courses, along with some other cool stuff I do in my free-time.<br/>If you require additional help, or would like to file a development request, take a look at the <a href="#contact">Contact</a> section.
+
 <hr>
+
 <h1 id="mi1">Medieninformatik</h1>
-<h2>Grundlagen der Medieninformatik 1</h2>
 
-<h3>Tutorium T12 (WiSe20/21)</h3>
+## Grundlagen der Medieninformatik 1
 
-<h4>Slides</h4>
+<details>
+  <summary>
+  	<b style="color: purple;">Tutorium T12 (WiSe20/21)</b>
+  </summary>  
 
-<ul>
-	<li>
-		Einführung - 5.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-1--5.11.2020.pdf?raw=true">(PDF)</a>
-	</li>
-	<li>
-		Menschliche Wahrnehmung - 12.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-2--12.11.2020.pdf?raw=true">(PDF)</a>
-	</li>
-	<li>
-		Digitalisierung - 19.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-3--19.11.2020.pdf?raw=true">(PDF)</a>
-	</li>
-	<li>
-		Kodierung - 26.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-4--26.11.2020.pdf?raw=true">(PDF)</a>	</li>
-	<li>
-		Bildmanipulation-1, Medienrecht, Gruppenfindung - 3.12.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-5--03.12.2020.pdf?raw=true">(PDF)</a>
-	</li>
-	<li>
-		AT-Gimp - 10.12.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-6--10.12.2020.pdf?raw=true">(PDF)</a>
-	</li>
-	<li>
-		Konzeptvorstellung - 17.12.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-7--17.12.2020.pdf?raw=true">(PDF)</a>
-	</li>
-	<li>
-		JPEG - 07.01.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-8--07.01.2021.pdf?raw=true">(PDF)</a>
-	</li>
-	<li>
-		AT-Audacity - 14.01.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/WiSe2021/Folien/MI1-9--14.01.2021.pdf?raw=true">(PDF)</a>
-	</li>
-</ul>
+#### Slides
 
-<hr>
+- Einführung - 5.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-1--5.11.2020.pdf?raw=true">(PDF)</a>
+- Menschliche Wahrnehmung - 12.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-2--12.11.2020.pdf?raw=true">(PDF)</a>
+- Digitalisierung - 19.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-3--19.11.2020.pdf?raw=true">(PDF)</a>
+- Kodierung - 26.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-4--26.11.2020.pdf?raw=true">(PDF)</a>	</li>
+- Bildmanipulation-1, Medienrecht, Gruppenfindung - 3.12.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-5--03.12.2020.pdf?raw=true">(PDF)</a>
+- AT-Gimp - 10.12.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-6--10.12.2020.pdf?raw=true">(PDF)</a>
+- Konzeptvorstellung - 17.12.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-7--17.12.2020.pdf?raw=true">(PDF)</a>
+- JPEG - 07.01.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-8--07.01.2021.pdf?raw=true">(PDF)</a>
+- AT-Audacity - 14.01.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-9--14.01.2021.pdf?raw=true">(PDF)</a>
+- AT-HTML - 21.01.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-10--21.01.2021.pdf?raw=true">(PDF)</a>
+- Bootstrap - 28.01.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-11--28.01.2021.pdf?raw=true">(PDF)</a>
+- AT-CSS - 04.02.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-12--04.02.2021.pdf?raw=true">(PDF)</a>
+- Medienökonomie und Fragestunde - 11.02.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-13--11.02.2021.pdf?raw=true">(PDF)</a>
+- Kampagnen-Vorstellung - 18.02.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-14--18.02.2021.pdf?raw=true">(PDF)</a>
 
-<h3>Tutorium T15 (WiSe19/20)</h3>
-<h4>Slides</h4>
-<ul>
-	<li>
-		Einführung - 17.10.19 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-1--17.10.2019.pdf?raw=true">(PDF)</a>
-	</li>
-	<li>
-		Menschliche Wahrnehmung - 24.10.19 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-2--24.10.2019.pdf?raw=true">(PDF)</a>
-	</li>
-  <li>
-		Digitalisierung - 07.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-3--07.11.2019.pdf?raw=true">(PDF)</a>
-	</li>
-	<li>
-		Kodierung - 14.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-4--14.11.2019.pdf?raw=true">(PDF)</a>
-	</li>
-	<li>
-		JPEG DCT - 21.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-5--21.11.2019.pdf?raw=true">(PDF)</a>
-	</li>
-	<li>
-		JPEG - 28.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-6--28.11.2019.pdf?raw=true">(PDF)</a>
-	</li>
-	<li>
-		Anwendungstutorium GIMP - 12.12.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-8--12.12.2019.pdf?raw=true">(PDF)</a>
-	</li>
-	<li>
-		Anwendungstutorium Audacity - 19.12.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-9--19.12.2019.pdf?raw=true">(PDF)</a>
-	</li>
-	<li>
-		Anwendungstutorium HTML und CSS - 09.01.2020 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Slides/MI1-10--09.01.2020.pdf?raw=true">(PDF)</a>
-	</li>
-</ul>
-<h4>Q&A</h4>
-<ul>
-	<li>Mensch-Medium-Maschine und Revolution/Evolution - 17.10.19 <a
-href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik%201/Tutorium/Q%26A/Q%26A%20MI1-1--17.10.2019.pdf?raw=true">(PDF)</a></li>
-</ul>
+</details>
 
-<h4>Tutorial</h4>
-<ul>
-	<li>HTML Tutorial <a href="https://www.youtube.com/watch?v=4Cgdgu2_0nw" target="_blank">(YouTube)<br><img src="https://i.ytimg.com/vi/4Cgdgu2_0nw/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBGsQ7snrjDyFBxnKhyiIsCLErFbg"></a></li>
-</ul>
+<details>
+  <summary>
+  	<b style="color: purple;">Tutorium T15 (WiSe19/20)</b>
+  </summary> 
+
+#### Slides
+
+- Einführung - 17.10.19 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-1--17.10.2019.pdf?raw=true">(PDF)</a>
+- Menschliche Wahrnehmung - 24.10.19 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-2--24.10.2019.pdf?raw=true">(PDF)</a>
+- Digitalisierung - 07.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-3--07.11.2019.pdf?raw=true">(PDF)</a>
+- Kodierung - 14.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-4--14.11.2019.pdf?raw=true">(PDF)</a>
+- JPEG DCT - 21.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-5--21.11.2019.pdf?raw=true">(PDF)</a>
+- JPEG - 28.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-6--28.11.2019.pdf?raw=true">(PDF)</a>
+- Anwendungstutorium GIMP - 12.12.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-8--12.12.2019.pdf?raw=true">(PDF)</a>
+- Anwendungstutorium Audacity - 19.12.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-9--19.12.2019.pdf?raw=true">(PDF)</a>
+- Anwendungstutorium HTML und CSS - 09.01.2020 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-10--09.01.2020.pdf?raw=true">(PDF)</a>
+
+#### Q&A
+
+- Mensch-Medium-Maschine und Revolution/Evolution - 17.10.19 <a
+href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Q%26A/Q%26A%20MI1-1--17.10.2019.pdf?raw=true">(PDF)</a>
+
+#### Tutorial
+
+- HTML Tutorial <a href="https://www.youtube.com/watch?v=4Cgdgu2_0nw" target="_blank">(YouTube)<br><img src="https://i.ytimg.com/vi/4Cgdgu2_0nw/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBGsQ7snrjDyFBxnKhyiIsCLErFbg"></a></li>
+
+</details>
+
+## Grundlagen der Medieninformatik 2
+
+<details>
+  <summary>
+  	<b style="color: purple;">Tutorium T04 (SoSe21)</b>
+  </summary> 
+
+#### Slides
+
+- Drehbuch und Gruppenbildung - 13.04.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-1--13.04.2021.pdf?raw=true">(PDF)</a>
+- Kamera und Bild, Drehbuchvorstellung - 20.04.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-2--20.04.2021.pdf?raw=true">(PDF)</a>
+- Storyboards - 27.04.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-3--27.04.2021.pdf?raw=true">(PDF)</a>
+- Storyboards #2 - 04.05.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-4--04.05.2021.pdf?raw=true">(PDF)</a>
+- AT-Blender - 11.05.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-5--11.05.2021.pdf?raw=true">(PDF)</a>
+- Fragestunde - 18.05.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-6--18.05.2021.pdf?raw=true">(PDF)</a>
+- AT-Compositing - 25.05.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-7--25.05.2021.pdf?raw=true">(PDF)</a>
+- AT-Audio & Schnitt - 01.06.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-8--01.06.2021.pdf?raw=true">(PDF)</a>
+- Filmzwischenstand & Fragestunde - 08.06.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-9--08.06.2021.pdf?raw=true">(PDF)</a>
+- 3D Vektorrechnung - 15.06.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-10--15.06.2021.pdf?raw=true">(PDF)</a>
+- Koordinatensysteme - 22.06.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-11--22.06.2021.pdf?raw=true">(PDF)</a>
+- Animationen und Compositing - 29.06.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-12--29.06.2021.pdf?raw=true">(PDF)</a>
+- AT-Unity - 06.07.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-13--06.07.2021.pdf?raw=true">(PDF)</a>
+- Fragestunde - 13.07.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-14--13.07.2021.pdf?raw=true">(PDF)</a>
+
+</details>
+
 <h4>
 	<a href="#top">Back to Top</a>
 </h4>
 
-<!-- Page Breaker(s)-->
 <hr>
 
 <h1 id="pi">Praktische Informatik + Exams</h1>
-<p>Are you looking for old exams, or for some examples? Take a look at what I got!</p>
 
-<!--Klausuren Section-->
-<h2>Klausuren/Exams</h2>
+Are you looking for old exams, or for some examples? Take a look at what I got!
 
-<!-- PI-1 Klausuren -->
-<ul>
-  <li>
-		<code>Praktische Informatik 1 Exams/Klausuren</code><a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/2.%20Praktische%20Informatik%201/Exams/Praktische%20Informatik%201%20-%20Imperative%20Programmierung%20und%20Objektorientierung">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/2.%20Klausuren/Praktische%20Informatik/Praktische%20Informatik%201%20-%20Imperative%20Programmierung%20und%20Objektorientierung">(Github)</a>
-	</li>
-<!-- PI-2 Klausuren -->
-  <li>
-		<code>Praktische Informatik 2 Exams/Klausuren</code><a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/2.%20Praktische%20Informatik%201/Exams/Praktische%20Informatik%202%20-%20Algorithmen%20und%20Datenstrukturen">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/2.%20Klausuren/Praktische%20Informatik/Praktische%20Informatik%202%20-%20Algorithmen%20und%20Datenstrukturen">(Github)</a>
-	</li>
-</ul>
+## Klausuren/Exams
 
-<!-- PI-1 -->
-<h2>Praktische Informatik 1: Imperative Programmierung und Objektorientierung</h2>
-<ul>
-	<li>
-		<code>Git - Introduction, Setup and Usage</code> <a target="_blank" href="https://www.youtube.com/watch?v=Sn01deXJ7M4">(YouTube)
+- Praktische Informatik 1 Exams/Klausuren <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/2.%20Praktische%20Informatik%201/Exams/Praktische%20Informatik%201%20-%20Imperative%20Programmierung%20und%20Objektorientierung">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/2.%20Klausuren/Praktische%20Informatik/Praktische%20Informatik%201%20-%20Imperative%20Programmierung%20und%20Objektorientierung">(Github)</a>
+- Praktische Informatik 2 Exams/Klausuren <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/2.%20Praktische%20Informatik%201/Exams/Praktische%20Informatik%202%20-%20Algorithmen%20und%20Datenstrukturen">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/2.%20Klausuren/Praktische%20Informatik/Praktische%20Informatik%202%20-%20Algorithmen%20und%20Datenstrukturen">(Github)</a>
+
+
+## Praktische Informatik 1: Imperative Programmierung und Objektorientierung
+
+- Git - Introduction, Setup and Usage <a target="_blank" href="https://www.youtube.com/watch?v=Sn01deXJ7M4">(YouTube)
 <br/>	<img src="https://i.ytimg.com/vi/Sn01deXJ7M4/hqdefault.jpg?sqp=-oaymwEYCMQBEG5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLArEVQdvLBXRkofro_XIX232dnezA"></a>
-	</li>
-	<li>
-		<code>Setup SSH in Git</code> <a target="_blank" href="https://www.youtube.com/watch?v=Px15O0sKXS0">(YouTube) <br/> <img src="https://i.ytimg.com/vi/Px15O0sKXS0/hqdefault.jpg?sqp=-oaymwEYCMQBEG5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDsxw1t6dvNUnEoRgCc0kilbqWbMw"></a>
-	</li>
-</ul>
+- Setup SSH in Git <a target="_blank" href="https://www.youtube.com/watch?v=Px15O0sKXS0">(YouTube) <br/> <img src="https://i.ytimg.com/vi/Px15O0sKXS0/hqdefault.jpg?sqp=-oaymwEYCMQBEG5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDsxw1t6dvNUnEoRgCc0kilbqWbMw"></a>
 
-<h3>Beispiele</h3>
-<ul>
-	<li>LaTeX Introduction <a href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%201%20-%20Imperative%20Programmierung%20und%20Objektorientierung/LaTeX%20Introduction">(Github)</a></li>
-</ul>
+### Beispiele
 
-<!-- PI-2 -->
-<h2>Praktische Informatik 2: Algorithmen und Datenstrukturen</h2>
+- LaTeX Introduction <a href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%201%20-%20Imperative%20Programmierung%20und%20Objektorientierung/LaTeX%20Introduction">(Github)</a></li>
+
+## Praktische Informatik 2: Algorithmen und Datenstrukturen
 
 <img src="https://miro.medium.com/max/3118/1*iwPLQjyFYRTVeQ2cb4S9rA.png" width="850" height="250">
 
-<h4>Iterator, Comparable & more...</h4>
-<ul>
-	<li>
-		<code>Iterator Implementation</code> <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Iterator%20Implementation">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Iterator%20Implementation">(Github)</a>
-	</li>
-</ul>
-<!-- Nodes & more -->
-<h4>Nodes, Linked Lists, Trees & more...</h4>
-<ul>
-  <li>
-		<code>Simple Linked List</code> <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes,%20LinkedLists,%20Trees/LinkedList">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes%2C%20LinkedLists%2C%20Trees/LinkedList">(Github)</a>
-	</li>
-  <li>
-		<code>Double Linked List</code> <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes,%20LinkedLists,%20Trees/Double%20LinkedList">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes%2C%20LinkedLists%2C%20Trees/Double%20LinkedList">(Github)</a>
-	</li>
-  <li>
-		<code>Simple Tree</code> <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes,%20LinkedLists,%20Trees/SimpleTree">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes%2C%20LinkedLists%2C%20Trees/SimpleTree">(Github)</a>
-	</li>
-</ul>
+#### Iterator, Comparable & more...
 
+- Iterator Implementation <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Iterator%20Implementation">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Iterator%20Implementation">(Github)</a>
 
-<!-- Search -->
-<h4>Search Algorithms:</h4>
-<ul>
-  <li>
-		<code>Linear Search</code> <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Search%20Algorithms/LinearSearch">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Search%20Algorithms/LinearSearch">(Github)</a>
-	</li>
-  <li>
-		<code>Binary Search</code> <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Search%20Algorithms/BinarySearch">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Search%20Algorithms/BinarySearch">(Github)</a>
-	</li>
-</ul>
+#### Nodes, Linked Lists, Trees & more...
 
-<!-- Sorting -->
-<h4>Sorting Algorithms</h4>
-<ul>
-  <li>
-		<code>Bubble Sort</code> <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/BubbleSort" target="_blank">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/BubbleSort">(Github)</a>
-	</li>
-  <li>
-		<code>Insertion Sort</code> <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/InsertionSort" target="_blank">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/InsertionSort">(Github)</a>
-	</li>
-  <li>
-		<code>Merge Sort</code> <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/MergeSort" target="_blank">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/MergeSort">(Github)</a>
-	</li>
-  <li>
-		<code>Quicksort</code> <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/QuickSort" target="_blank">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/QuickSort">(Github)</a>
-	</li>
-</ul>
+- Simple Linked List <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes,%20LinkedLists,%20Trees/LinkedList">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes%2C%20LinkedLists%2C%20Trees/LinkedList">(Github)</a>
+- Double Linked List <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes,%20LinkedLists,%20Trees/Double%20LinkedList">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes%2C%20LinkedLists%2C%20Trees/Double%20LinkedList">(Github)</a>
+- Simple Tree <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes,%20LinkedLists,%20Trees/SimpleTree">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes%2C%20LinkedLists%2C%20Trees/SimpleTree">(Github)</a>
+
+#### Search Algorithms
+
+- Linear Search <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Search%20Algorithms/LinearSearch">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Search%20Algorithms/LinearSearch">(Github)</a>
+- Binary Search <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Search%20Algorithms/BinarySearch">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Search%20Algorithms/BinarySearch">(Github)</a>
+
+#### Sorting Algorithms
+
+- Bubble Sort <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/BubbleSort" target="_blank">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/BubbleSort">(Github)</a>
+- Insertion Sort <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/InsertionSort" target="_blank">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/InsertionSort">(Github)</a>
+- Merge Sort <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/MergeSort" target="_blank">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/MergeSort">(Github)</a>
+- Quicksort <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/QuickSort" target="_blank">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/QuickSort">(Github)</a>
 
 <h4>
 	<a href="#top">Back to Top</a>
 </h4>
-<!-- Page Breaker(s)-->
+
 <hr>
 
 <h1 id="free">Things for your free-time</h1>
 
-
-<!-- Android Studio -->
-<!-- <h3>Android Studio</h3> -->
+More cool stuff on my <a href="https://leolion.tk">other Repo</a>.
 
 <h3>
 	<img src="https://docs.microsoft.com/en-us/powershell/media/index/powershell_128.svg" width="38" height="24">PowerShell
 </h3>
-<ul>
-	<li>
-		<code>Bubble Sort</code> <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Powershell/Algorithms/BubbleSort">(Github)</a>
-	</li>
-</ul>
-<!-- Batch -->
-<h3>Windows BATCH</h3>
-<ul>
-	<li><code>BATCH Introduction</code> <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Github)</a>
-	</li>
-  <li>
-		<code>Password-Protected Self-Defending USB</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL/2.%20Password-Protected%20Self-Defending%20USB">(Github)</a>
-	</li>
-  <li>
-		<code>3-Line PC crasher</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL/3.%20PC%20CRASHER">(Github) </a>
-	</li>
-</ul>
+
+- Bubble Sort <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Powershell/Algorithms/BubbleSort">(Github)</a>
+
+### Batchfile
+
+- BATCH Introduction <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL">(Github)</a>
+- Password-Protected Self-Defending USB <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL/2.%20Password-Protected%20Self-Defending%20USB">(Github)</a>
+- 3-Line PC crasher <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Spass%20mit%20SHELL/3.%20PC%20CRASHER">(Github) </a>
 
 <!-- Python Section -->
-<image src="https://www.python.org/static/img/python-logo.png" width="168" height="50"/>
+<h3>
+	<img src="https://www.python.org/static/img/python-logo.png" width="168" height="50">
+</h3>
 
-<ul>
-	<li><code>Chatroom using TCP Sockets</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Chatroom">(Github)</a>
-	</li>
-	<li><code>Markdown / Text Editor <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Markdown%20Text%20Editor">(Github)</a></code></li>
- 	 <li>
-		<code>Network Tool</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Network%20Tool">(Github)</a>
-	</li>
-  	<li>
-		<code>Open-Port Checker</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/PortChecker">(Github)</a>
-	</li>
-	<li>
-		<code>Reverse-Shell</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Python%20Reverse%20Shell">(Github)</a>
-	</li>
-	<li>
-		<code>RGB-YCbCr-DCT Converter (MI-1)</code> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/RGB-DCT-Q">(Github)</a>
-	</li>
-	<li><code>Youtube MP3 Video Downloader </code><a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/YouTube%20Video%20Downloader">(Github)</a></li>
-</ul>
-  <img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Shell.PNG?raw=true">
+- Chatroom using TCP Sockets <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Chatroom">(Github)</a>
+- Network Tool <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/Network%20Tool">(Github)</a>
+- Open-Port Checker <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/PortChecker">(Github)</a>
+- RGB-YCbCr-DCT Converter (MI-1) <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Etc%20in%20der%20Freizeit/Python/RGB-DCT-Q">(Github)</a>
+
+<img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Shell.PNG?raw=true">
 
 <h4>
 	<a href="#top">Back to Top</a>
 </h4>
-<!-- Page Breaker(s)-->
+
 <hr>
 
-<!-- Me-section -->
 <h1 id="me">More from Me...</h1>
 
 Here you can find stuff that I do in my free-time...
