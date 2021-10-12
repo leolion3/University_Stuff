@@ -37,7 +37,7 @@ If you need help with your courses and exams, or are just looking for some fun t
 
 # Who am I?
 
-Hello and Welcome!<br/> My name is Leonard Haddad.<br/> I am a 21 year old, Israeli-German Computer-Science student at the University of Bremen in Germany.<br/> On this Website you can find some stuff I created to help others out with their courses, along with some other cool stuff I do in my free-time.<br/>If you require additional help, or would like to file a development request, take a look at the <a href="#contact">Contact</a> section.
+Hello and Welcome!<br/> My name is Leonard Haddad.<br/> I am a 22 year old, Israeli-German Computer-Science student at the University of Bremen in Germany.<br/> On this Website you can find some stuff I created to help others out with their courses, along with some other cool stuff I do in my free-time.<br/>If you require additional help, or would like to file a development request, take a look at the <a href="#contact">Contact</a> section.
 
 <hr>
 
