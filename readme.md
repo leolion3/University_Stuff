@@ -47,7 +47,7 @@ Hello and Welcome!<br/> My name is Leonard Haddad.<br/> I am a 22 year old, Isra
 
 <details>
   <summary>
-  	<b style="color: purple;">Tutorium T12 (WiSe20/21)</b>
+  	<b style="color: purple;">Tutorium T08 (WiSe21/22)</b>
   </summary>  
 
 {% capture p4 %}
