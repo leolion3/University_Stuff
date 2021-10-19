@@ -50,6 +50,17 @@ Hello and Welcome!<br/> My name is Leonard Haddad.<br/> I am a 22 year old, Isra
   	<b style="color: purple;">Tutorium T12 (WiSe20/21)</b>
   </summary>  
 
+{% capture p4 %}
+- Das Dreieck Mensch-Medium-Maschine / Einführung - 20.10.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2122/Folien/MI1-1--20.10.2021.pdf?raw=true">(PDF)</a>
+{% endcapture %} {{ p4 | markdownify }}
+
+</details>
+
+<details>
+  <summary>
+  	<b style="color: purple;">Tutorium T12 (WiSe20/21)</b>
+  </summary>  
+
 {% capture p1 %}
 #### Slides
 
