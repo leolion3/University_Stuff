@@ -43,11 +43,11 @@ Hello and Welcome!<br/> My name is Leonard Haddad.<br/> I am a 22 year old, Isra
 
 <h1 id="wifi">WLAN Uni-Bremen</h1>
 
-Im folgenden Dokument wird erklärt wie Eduroam auf den verschiedenen Geräten konfiguriert werden kann, ohne ein Einrichtungstool zu verwenden (ich bin kein Fan von solcher Software).
+The document below explains how to set up the Eduroam wifi network on different devices without using 3rd party tools (as I hate such tools).
 
 <details>
   <summary>
-  	<b style="color: purple;">Tutorium T08 (WiSe21/22)</b>
+  	<b style="color: purple;">Eduroam Wi-Fi Setup</b>
   </summary>
    {% capture p5 %}
    {% include_relative WLAN/README.md %}
