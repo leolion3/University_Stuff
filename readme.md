@@ -49,9 +49,7 @@ The document below explains how to set up the Eduroam wifi network on different 
   <summary>
   	<b style="color: purple;">Eduroam Wi-Fi Setup</b>
   </summary>
-   {% capture p5 %}
-   {% include_relative WLAN/README.md %}
-   {% endcapture %} {{ p5 | markdownify }}
+   {% capture p5 %} {% include_relative WLAN/README.md %} {% endcapture %} {{ p5 | markdownify }}
 </details>
 
 <h1 id="mi1">Medieninformatik</h1>
