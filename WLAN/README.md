@@ -1,4 +1,4 @@
-# Uni Wifi Setup
+<h1 id="uni-wifi-setup">Uni Wifi Setup</h1>
 
 ## Windows 8/10/11
 
@@ -50,3 +50,5 @@
 - On some devices you might have to choose "TTLS" instead of "PEAP" in the "EAP Method"
 - You might have to set "CA certificate" to "Use system certificates"
 - You might have to set the "Online certificate status" to "Request status" or a different validation type
+
+<a href="#uni-wifi-setup">Back to top</a>
