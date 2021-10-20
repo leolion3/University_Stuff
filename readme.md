@@ -41,6 +41,19 @@ Hello and Welcome!<br/> My name is Leonard Haddad.<br/> I am a 22 year old, Isra
 
 <hr>
 
+<h1 id="wifi">WLAN Uni-Bremen</h1>
+
+Im folgenden Dokument wird erklärt wie Eduroam auf den verschiedenen Geräten konfiguriert werden kann, ohne ein Einrichtungstool zu verwenden (ich bin kein Fan von solcher Software).
+
+<details>
+  <summary>
+  	<b style="color: purple;">Tutorium T08 (WiSe21/22)</b>
+  </summary>
+   {% capture p5 %}
+   {% include_relative WLAN/README.md %}
+   {% endcapture %} {{ p5 | markdownify }}
+</details>
+
 <h1 id="mi1">Medieninformatik</h1>
 
 ## Grundlagen der Medieninformatik 1
