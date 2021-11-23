@@ -1,4 +1,4 @@
-# Git
+<h1>Git</h1>
 
 ## Wtf ist git?
 
@@ -55,7 +55,7 @@ Now to add your key to Gitlab/Github (the process is identical), you want to fir
 - To do this, enter the following command (also works on Windows using WT oder powershell):
 
 ```bash
-cat ~~/.ssh/id_rsa.pub
+cat ~/.ssh/id_rsa.pub
 ```
 
 Notice the ".pub" following the filename? That indicates its the public key. The private key is stored by default in "~/.ssh/id_rsa". 
