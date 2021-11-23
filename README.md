@@ -51,6 +51,7 @@ The document below explains how to set up the Eduroam wifi network on different 
   </summary>
   <div>
    {% capture p5 %} {% include_relative WLAN/README.md %} {% endcapture %} {{ p5 | markdownify }}
+   <a href="#wifi">Back to Top</a>
   </div>
 </details>
 
@@ -170,6 +171,20 @@ href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/
 <h1 id="pi">Praktische Informatik + Exams</h1>
 
 Are you looking for old exams, or for some examples? Take a look at what I got!
+
+<h1 id="wtf-is-git">Just wtf is Git?</h1>
+
+Every developer should know what Git is and how to use it. The below document contains an oversimplified explanation of Git and its functions.
+
+<details>
+  <summary>
+  	<b style="color: purple;">WTF is Git?</b>
+  </summary>
+  <div>
+   {% capture p6 %} {% include_relative PraktischeInformatik/git/README.md %} {% endcapture %} {{ p6 | markdownify }}
+   <a href="#wtf-is-git">Back to Top</a>
+  </div>
+</details> 
 
 ## Klausuren/Exams
 
