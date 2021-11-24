@@ -1,4 +1,4 @@
-# Git
+<h1>Git</h1>
 
 ## Wtf ist git?
 
@@ -15,10 +15,10 @@ Git works with Git Repositories. For the sake of simplicity, we will say that a 
 
 Popular platforms for hosting git repositories include Github (now owned by Microsoft) and Gitlab.
 
-## SSH vs Https
+## SSH vs HTTPs
 
-When working with remote git repositories, one can either use SSH oder Https to authenticate with the remote hosting provider (the one hosting the repositories).
-Https uses Username-Password authentication while SSH uses Public-Private key authentication.
+When working with remote git repositories, one can either use SSH oder HTTPs to authenticate with the remote hosting provider (the one hosting the repositories).
+HTTPs uses Username-Password authentication while SSH uses Public-Private key authentication.
 
 ### Public-Private key authentication
 
@@ -28,11 +28,11 @@ When authenticating with a remote server you and the remote server know each oth
 
 The Public key may be shared publicly, the private key, however, **must never be shared**.  
 
-Many people prefer SSH over Https, both because it can be more secure (depending on your password strength and many other factors) and because its much less of a hustle to work with.
+Many people prefer SSH over HTTPs, both because it can be more secure (depending on your password strength and many other factors) and because its much less of a hustle to work with.
 
 ### Generating an SSH Keypair
 
-- To use SSH instead of Https, launch a terminal of your choice (on Windows the Windows Terminal is excellent, powershell is fine and cmd is crap to work with) and then enter the command
+- To use SSH instead of HTTPs, launch a terminal of your choice (on Windows the Windows Terminal is excellent, powershell is fine and cmd is crap to work with) and then enter the command
 
 ```bash
 ssh-keygen -t rsa -b 4096
@@ -55,7 +55,7 @@ Now to add your key to Gitlab/Github (the process is identical), you want to fir
 - To do this, enter the following command (also works on Windows using WT oder powershell):
 
 ```bash
-cat ~~/.ssh/id_rsa.pub
+cat ~/.ssh/id_rsa.pub
 ```
 
 Notice the ".pub" following the filename? That indicates its the public key. The private key is stored by default in "~/.ssh/id_rsa". 
