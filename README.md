@@ -186,11 +186,6 @@ Every developer should know what Git is and how to use it. The below document co
   </div>
 </details> 
 
-## Klausuren/Exams
-
-- Praktische Informatik 1 Exams/Klausuren <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/2.%20Praktische%20Informatik%201/Exams/Praktische%20Informatik%201%20-%20Imperative%20Programmierung%20und%20Objektorientierung">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Klausuren/Praktische%20Informatik/Praktische%20Informatik%201%20-%20Imperative%20Programmierung%20und%20Objektorientierung">(Github)</a>
-- Praktische Informatik 2 Exams/Klausuren <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/2.%20Praktische%20Informatik%201/Exams/Praktische%20Informatik%202%20-%20Algorithmen%20und%20Datenstrukturen">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Klausuren/Praktische%20Informatik/Praktische%20Informatik%202%20-%20Algorithmen%20und%20Datenstrukturen">(Github)</a>
-
 
 ## Praktische Informatik 1: Imperative Programmierung und Objektorientierung
 
