@@ -1,5 +1,0 @@
-====================Disclaimer====================
-This upload is for educational purposes only.
-This code has been rewritten to look near identical to the original
-code in the original exam.
-I do not claim nor own, any of the images in this project.
