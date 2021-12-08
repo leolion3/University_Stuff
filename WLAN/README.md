@@ -39,7 +39,7 @@
 - Set the "Identity" to "your_studip_name@uni-bremen.de"
 - Set the "Password" to your WLAN Password (See above)
 - Set "CA certificate" to "Don't validate"
-- Set the "Domain" to "wlan.radius.uni-bremen.de"
+- Set the "Domain" to "radius.wlan.uni-bremen.de"
 - Set the "Phase 2 authentication" to "MSCHAPV2"
 - Set the "Anonymous identity" to "eduroam@uni-bremen.de"
 - Optional for further security: Set the "MAC address type" to "Randomized MAC" (Automatic on Android 9+)
