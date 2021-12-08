@@ -51,7 +51,6 @@ The document below explains how to set up the Eduroam wifi network on different 
   </summary>
   <div>
    {% capture p5 %} {% include_relative WLAN/README.md %} {% endcapture %} {{ p5 | markdownify }}
-   <a href="#wifi">Back to Top</a>
   </div>
 </details>
 
@@ -188,11 +187,6 @@ Every developer should know what Git is and how to use it. The below document co
   </div>
 </details> 
 
-## Klausuren/Exams
-
-- Praktische Informatik 1 Exams/Klausuren <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/2.%20Praktische%20Informatik%201/Exams/Praktische%20Informatik%201%20-%20Imperative%20Programmierung%20und%20Objektorientierung">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/2.%20Klausuren/Praktische%20Informatik/Praktische%20Informatik%201%20-%20Imperative%20Programmierung%20und%20Objektorientierung">(Github)</a>
-- Praktische Informatik 2 Exams/Klausuren <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/2.%20Praktische%20Informatik%201/Exams/Praktische%20Informatik%202%20-%20Algorithmen%20und%20Datenstrukturen">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/2.%20Klausuren/Praktische%20Informatik/Praktische%20Informatik%202%20-%20Algorithmen%20und%20Datenstrukturen">(Github)</a>
-
 
 ## Praktische Informatik 1: Imperative Programmierung und Objektorientierung
 
@@ -202,7 +196,7 @@ Every developer should know what Git is and how to use it. The below document co
 
 ### Beispiele
 
-- LaTeX Introduction <a href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%201%20-%20Imperative%20Programmierung%20und%20Objektorientierung/LaTeX%20Introduction">(Github)</a>
+- LaTeX Introduction <a href="https://github.com/leolion3/University_Stuff/tree/master/Beispiele/Praktische%20Informatik%201%20-%20Imperative%20Programmierung%20und%20Objektorientierung/LaTeX%20Introduction">(Github)</a>
 
 ## Praktische Informatik 2: Algorithmen und Datenstrukturen
 
@@ -210,25 +204,25 @@ Every developer should know what Git is and how to use it. The below document co
 
 #### Iterator, Comparable & more...
 
-- Iterator Implementation <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Iterator%20Implementation">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Iterator%20Implementation">(Github)</a>
+- Iterator Implementation <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Iterator%20Implementation">(Gitlab)</a> <a href="https://github.com/leolion3/University_Stuff/tree/master/Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Iterator%20Implementation">(Github)</a>
 
 #### Nodes, Linked Lists, Trees & more...
 
-- Simple Linked List <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes,%20LinkedLists,%20Trees/LinkedList">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes%2C%20LinkedLists%2C%20Trees/LinkedList">(Github)</a>
-- Double Linked List <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes,%20LinkedLists,%20Trees/Double%20LinkedList">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes%2C%20LinkedLists%2C%20Trees/Double%20LinkedList">(Github)</a>
-- Simple Tree <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes,%20LinkedLists,%20Trees/SimpleTree">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes%2C%20LinkedLists%2C%20Trees/SimpleTree">(Github)</a>
+- Simple Linked List <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes,%20LinkedLists,%20Trees/LinkedList">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes%2C%20LinkedLists%2C%20Trees/LinkedList">(Github)</a>
+- Double Linked List <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes,%20LinkedLists,%20Trees/Double%20LinkedList">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes%2C%20LinkedLists%2C%20Trees/Double%20LinkedList">(Github)</a>
+- Simple Tree <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes,%20LinkedLists,%20Trees/SimpleTree">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Nodes%2C%20LinkedLists%2C%20Trees/SimpleTree">(Github)</a>
 
 #### Search Algorithms
 
-- Linear Search <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Search%20Algorithms/LinearSearch">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Search%20Algorithms/LinearSearch">(Github)</a>
-- Binary Search <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Search%20Algorithms/BinarySearch">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Search%20Algorithms/BinarySearch">(Github)</a>
+- Linear Search <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Search%20Algorithms/LinearSearch">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Search%20Algorithms/LinearSearch">(Github)</a>
+- Binary Search <a target="_blank" href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Search%20Algorithms/BinarySearch">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Search%20Algorithms/BinarySearch">(Github)</a>
 
 #### Sorting Algorithms
 
-- Bubble Sort <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/BubbleSort" target="_blank">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/BubbleSort">(Github)</a>
-- Insertion Sort <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/InsertionSort" target="_blank">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/InsertionSort">(Github)</a>
-- Merge Sort <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/MergeSort" target="_blank">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/MergeSort">(Github)</a>
-- Quicksort <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/QuickSort" target="_blank">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/QuickSort">(Github)</a>
+- Bubble Sort <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/BubbleSort" target="_blank">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/BubbleSort">(Github)</a>
+- Insertion Sort <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/InsertionSort" target="_blank">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/InsertionSort">(Github)</a>
+- Merge Sort <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/MergeSort" target="_blank">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/MergeSort">(Github)</a>
+- Quicksort <a href="https://gitlab.informatik.uni-bremen.de/s_xsipo6/university_stuff/tree/master/3.%20Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/QuickSort" target="_blank">(Gitlab)</a> <a target="_blank" href="https://github.com/leolion3/University_Stuff/tree/master/Beispiele/Praktische%20Informatik%202%20-%20Datenstrukturen%20und%20Algorithmen/Sorting%20Algorithms/QuickSort">(Github)</a>
 
 <h4>
 	<a href="#top">Back to Top</a>
