@@ -51,7 +51,7 @@ My name is Leonard Haddad.<br/> I am a 22 year old, Israeli-German Computer-Scie
 
 <h1 id="technical">Technical Stuff</h1>
 
-<h2 id="wifi">WLAN Uni-Bremen</h1>
+<h2 id="wifi">WLAN Uni-Bremen</h2>
 
 The document below explains how to set up the Eduroam wifi network on different devices without using 3rd party tools (as I hate such tools).
 
