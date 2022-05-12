@@ -1,3 +1,4 @@
+
 #### Slides
 
 - Einführung - 5.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-1--5.11.2020.pdf?raw=true">(PDF)</a>
