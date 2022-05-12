@@ -64,6 +64,21 @@ The document below explains how to set up the Eduroam wifi network on different 
   </div>
 </details>
 
+<h2 id="printers">Printing in FB3 Uni-Bremen</h2>
+
+<details>
+  <summary>
+  	<b style="color: purple;">Printing in MZH/FB3 at Uni Bremen</b>
+  </summary>
+  <div>
+   <p>To print anything at the FB3 (in the MZH) the computer science department has moved the printers outside the E0 rooms into the floor and installed a raspberry pi running the <a href="https://www.papercut.com/tour/raspberry-pi/">PaperCut printer server software</a>.</p>
+
+<p>To print a document, simply navigate to https://printerhost.informatik.uni-bremen.de/ then sign in with your university email address and password. Upload the document you wish to print then submit the job. Next, take your nfc tag and head towards the printer. There, just hold your nfc tag against the reader and hit print.</p>
+	  
+<p><b>Note: you get 300 free pages of print per semester. Use them.</b></p>
+  </div>
+</details>
+
 <h1 id="wtf-is-git">Just wtf is Git?</h1>
 
 Every developer should know what Git is and how to use it. The below document contains an oversimplified explanation of Git and its functions.
