@@ -1,3 +1,4 @@
+
 #### Slides
 
 - Drehbuch und Gruppenbildung - 13.04.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-1--13.04.2021.pdf?raw=true">(PDF)</a>
