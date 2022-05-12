@@ -35,13 +35,23 @@
 
 If you need help with your courses and exams, or are just looking for some fun things for your free time, you have come to the right place! For more cool stuff, check out my other <a href="https://leolion.tk">website!</a>
 
+**Did you know?** I offer Java and Python software development. For price enquires, see the <a href="#contact">contact</a> section.
+
+# What can you find here?
+
+If you study computer science or something similar you might find some helpful examples and sample solutions to various fields of study. These have accumulated over the years during my studies at the University of Bremen, and shall be published here to help you advance in your studies.
+
+Furthermore, you will find various guides for a wide range of things, as well as some cool scripts for other tasks.
+
 # Who am I?
 
-Hello and Welcome!<br/> My name is Leonard Haddad.<br/> I am a 22 year old, Israeli-German Computer-Science student at the University of Bremen in Germany.<br/> On this Website you can find some stuff I created to help others out with their courses, along with some other cool stuff I do in my free-time.<br/>If you require additional help, or would like to file a development request, take a look at the <a href="#contact">Contact</a> section.
+My name is Leonard Haddad.<br/> I am a 22 year old, Israeli-German Computer-Science Masters student at the University of Bremen.<br/> On this Website you can find some stuff I created to help others out with their courses, along with some other cool stuff I do in my free-time.<br/>If you require additional help, or would like to file a development request, take a look at the <a href="#contact">Contact</a> section.
 
 <hr>
 
-<h1 id="wifi">WLAN Uni-Bremen</h1>
+<h1 id="technical">Technical Stuff</h1>
+
+<h2 id="wifi">WLAN Uni-Bremen</h1>
 
 The document below explains how to set up the Eduroam wifi network on different devices without using 3rd party tools (as I hate such tools).
 
@@ -53,128 +63,6 @@ The document below explains how to set up the Eduroam wifi network on different 
    {% capture p5 %} {% include_relative WLAN/README.md %} {% endcapture %} {{ p5 | markdownify }}
   </div>
 </details>
-
-<h1 id="mi1">Medieninformatik</h1>
-
-## Grundlagen der Medieninformatik 1
-
-<details>
-  <summary>
-  	<b style="color: purple;">Tutorium T08 (WiSe21/22)</b>
-  </summary>  
-
-{% capture p4 %}
-
-#### Slides
-- Das Dreieck Mensch-Medium-Maschine / Einführung - 20.10.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2122/Folien/MI1-1--20.10.2021.pdf?raw=true">(PDF)</a>
-- Menschliche Wahrnehmung / Gestaltgesetze - 27.10.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2122/Folien/MI1-2--27.10.2021.pdf?raw=true">(PDF)</a>
-- Digitalisierung - 03.11.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2122/Folien/MI1-3--03.11.2021.pdf?raw=true">(PDF)</a>
-- Kodierung - 10.11.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2122/Folien/MI1-4--10.11.2021.pdf?raw=true">(PDF)</a>
-- Bildmanipulation, Medienrecht und Gruppenbildung - 17.11.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2122/Folien/MI1-5--17.11.2021.pdf?raw=true">(PDF)</a>
-- AT-Gimp und Konzeptvorstellung - 24.11.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2122/Folien/MI1-6--24.11.2021.pdf?raw=true">(PDF)</a>
-- Konzeptvorstellung \#2 und JPEG - 08.12.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2122/Folien/MI1-7--08.12.2021.pdf?raw=true">(PDF)</a>
-- JPEG - 15.12.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2122/Folien/MI1-8--15.12.2021.pdf?raw=true">(PDF)</a>
-- AT-HTML - 22.12.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2122/Folien/MI1-9--22.12.2021.pdf?raw=true">(PDF)</a>
-- Bootstrap - 12.01.22 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2122/Folien/MI1-10--12.01.2022.pdf?raw=true">(PDF)</a>
-	
-{% endcapture %} {{ p4 | markdownify }}
-
-</details>
-
-<details>
-  <summary>
-  	<b style="color: purple;">Tutorium T12 (WiSe20/21)</b>
-  </summary>  
-
-{% capture p1 %}
-#### Slides
-
-- Einführung - 5.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-1--5.11.2020.pdf?raw=true">(PDF)</a>
-- Menschliche Wahrnehmung - 12.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-2--12.11.2020.pdf?raw=true">(PDF)</a>
-- Digitalisierung - 19.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-3--19.11.2020.pdf?raw=true">(PDF)</a>
-- Kodierung - 26.11.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-4--26.11.2020.pdf?raw=true">(PDF)</a>
-- Bildmanipulation-1, Medienrecht, Gruppenfindung - 3.12.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-5--03.12.2020.pdf?raw=true">(PDF)</a>
-- AT-Gimp - 10.12.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-6--10.12.2020.pdf?raw=true">(PDF)</a>
-- Konzeptvorstellung - 17.12.20 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-7--17.12.2020.pdf?raw=true">(PDF)</a>
-- JPEG - 07.01.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-8--07.01.2021.pdf?raw=true">(PDF)</a>
-- AT-Audacity - 14.01.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-9--14.01.2021.pdf?raw=true">(PDF)</a>
-- AT-HTML - 21.01.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-10--21.01.2021.pdf?raw=true">(PDF)</a>
-- Bootstrap - 28.01.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-11--28.01.2021.pdf?raw=true">(PDF)</a>
-- AT-CSS - 04.02.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-12--04.02.2021.pdf?raw=true">(PDF)</a>
-- Medienökonomie und Fragestunde - 11.02.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-13--11.02.2021.pdf?raw=true">(PDF)</a>
-- Kampagnen-Vorstellung - 18.02.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe2021/Folien/MI1-14--18.02.2021.pdf?raw=true">(PDF)</a>
-{% endcapture %} {{ p1 | markdownify }}
-
-</details>
-
-<details>
-  <summary>
-  	<b style="color: purple;">Tutorium T15 (WiSe19/20)</b>
-  </summary> 
-
-{% capture p2 %}
-	
-#### Slides
-
-- Einführung - 17.10.19 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-1--17.10.2019.pdf?raw=true">(PDF)</a>
-- Menschliche Wahrnehmung - 24.10.19 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-2--24.10.2019.pdf?raw=true">(PDF)</a>
-- Digitalisierung - 07.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-3--07.11.2019.pdf?raw=true">(PDF)</a>
-- Kodierung - 14.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-4--14.11.2019.pdf?raw=true">(PDF)</a>
-- JPEG DCT - 21.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-5--21.11.2019.pdf?raw=true">(PDF)</a>
-- JPEG - 28.11.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-6--28.11.2019.pdf?raw=true">(PDF)</a>
-- Anwendungstutorium GIMP - 12.12.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-8--12.12.2019.pdf?raw=true">(PDF)</a>
-- Anwendungstutorium Audacity - 19.12.2019 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-9--19.12.2019.pdf?raw=true">(PDF)</a>
-- Anwendungstutorium HTML und CSS - 09.01.2020 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Slides/MI1-10--09.01.2020.pdf?raw=true">(PDF)</a>
-	
-#### Q&A
-
-- Mensch-Medium-Maschine und Revolution/Evolution - 17.10.19 <a
-href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik1/WiSe1920/Q%26A/Q%26A%20MI1-1--17.10.2019.pdf?raw=true">(PDF)</a>
-
-#### Tutorial
-
-- HTML Tutorial <a href="https://www.youtube.com/watch?v=4Cgdgu2_0nw" target="_blank">(YouTube)<br><img src="https://i.ytimg.com/vi/4Cgdgu2_0nw/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBGsQ7snrjDyFBxnKhyiIsCLErFbg"></a></li>
-{% endcapture %} {{ p2 | markdownify }}
-
-</details>
-
-## Grundlagen der Medieninformatik 2
-
-<details>
-  <summary>
-  	<b style="color: purple;">Tutorium T04 (SoSe21)</b>
-  </summary> 
-
-{% capture p3 %}
-#### Slides
-
-- Drehbuch und Gruppenbildung - 13.04.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-1--13.04.2021.pdf?raw=true">(PDF)</a>
-- Kamera und Bild, Drehbuchvorstellung - 20.04.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-2--20.04.2021.pdf?raw=true">(PDF)</a>
-- Storyboards - 27.04.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-3--27.04.2021.pdf?raw=true">(PDF)</a>
-- Storyboards #2 - 04.05.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-4--04.05.2021.pdf?raw=true">(PDF)</a>
-- AT-Blender - 11.05.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-5--11.05.2021.pdf?raw=true">(PDF)</a>
-- Fragestunde - 18.05.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-6--18.05.2021.pdf?raw=true">(PDF)</a>
-- AT-Compositing - 25.05.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-7--25.05.2021.pdf?raw=true">(PDF)</a>
-- AT-Audio & Schnitt - 01.06.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-8--01.06.2021.pdf?raw=true">(PDF)</a>
-- Filmzwischenstand & Fragestunde - 08.06.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-9--08.06.2021.pdf?raw=true">(PDF)</a>
-- 3D Vektorrechnung - 15.06.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-10--15.06.2021.pdf?raw=true">(PDF)</a>
-- Koordinatensysteme - 22.06.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-11--22.06.2021.pdf?raw=true">(PDF)</a>
-- Animationen und Compositing - 29.06.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-12--29.06.2021.pdf?raw=true">(PDF)</a>
-- AT-Unity - 06.07.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-13--06.07.2021.pdf?raw=true">(PDF)</a>
-- Fragestunde - 13.07.21 <a href="https://github.com/leolion3/University_Stuff/blob/master/Medieninformatik/Medieninformatik2/SoSe2021/Folien/MI2-14--13.07.2021.pdf?raw=true">(PDF)</a>
-{% endcapture %} {{ p3 | markdownify }}
-	
-</details>
-
-<h4>
-	<a href="#top">Back to Top</a>
-</h4>
-
-<hr>
-
-<h1 id="pi">Praktische Informatik + Exams</h1>
-
-Are you looking for old exams, or for some examples? Take a look at what I got!
 
 <h1 id="wtf-is-git">Just wtf is Git?</h1>
 
@@ -188,7 +76,51 @@ Every developer should know what Git is and how to use it. The below document co
    {% capture p6 %} {% include_relative PraktischeInformatik/git/README.md %} {% endcapture %} {{ p6 | markdownify }}
    <a href="#wtf-is-git">Back to Top</a>
   </div>
-</details> 
+</details>
+
+<h1 id="mi1">Medieninformatik</h1>
+
+## Grundlagen der Medieninformatik 1
+
+<details>
+  <summary>
+  	<b style="color: purple;">Tutorium T08 (WiSe21/22)</b>
+  </summary>  
+{% capture p4 %} {% include_relative Medieninformatik/Medieninformatik1/WiSe2122/slides.md %} {% endcapture %} {{ p4 | markdownify }}
+</details>
+
+<details>
+  <summary>
+  	<b style="color: purple;">Tutorium T12 (WiSe20/21)</b>
+  </summary>  
+{% capture p1 %} {% include_relative Medieninformatik/Medieninformatik1/WiSe2021/slides.md %} {% endcapture %} {{ p1 | markdownify }}
+</details>
+
+<details>
+  <summary>
+  	<b style="color: purple;">Tutorium T15 (WiSe19/20)</b>
+  </summary> 
+{% capture p2 %} {% include_relative Medieninformatik/Medieninformatik1/WiSe1920/slides.md %} {% endcapture %} {{ p2 | markdownify }}
+</details>
+
+## Grundlagen der Medieninformatik 2
+
+<details>
+  <summary>
+  	<b style="color: purple;">Tutorium T04 (SoSe21)</b>
+  </summary> 
+{% capture p3 %} {% include_relative Medieninformatik/Medieninformatik2/SoSe2021/slides.md %} {% endcapture %} {{ p3 | markdownify }}
+</details>
+
+<h4>
+	<a href="#top">Back to Top</a>
+</h4>
+
+<hr>
+
+<h1 id="pi">Praktische Informatik + Exams</h1>
+
+Are you looking for old exams, or for some examples? Take a look at what I got! 
 
 
 ## Praktische Informatik 1: Imperative Programmierung und Objektorientierung
@@ -235,7 +167,7 @@ Every developer should know what Git is and how to use it. The below document co
 
 <h1 id="free">Things for your free-time</h1>
 
-More cool stuff on my <a href="https://leolion.tk">other Repo</a>.
+While the section on this website contains mostly nonsense, my <a href="https://leolion.tk">other website</a> offers highly sophisticated tools for a wide range of use cases, from bank balance forecasts and investment yield calculations to password creation and cold-storage to digital file transfers and commandline automation.
 
 <h3>
 	<img src="https://docs.microsoft.com/en-us/powershell/media/index/powershell_128.svg" width="38" height="24">PowerShell
@@ -277,7 +209,9 @@ The B-Human football robots were incapable of showing emotions during RoboCup ga
 
 **The thesis can be found <a href="Publications/BA_B-More-Human_leonard_haddad_SoSe22.pdf">here</a>.**
 
-**\* The corrections and my grade can be provided upon request. Long live upon source and free access to information!**
+**Grade: 1.3** (for non-germans, its basically an A, just one step under a 1.0 which is the highest possible grade in Germany.)
+
+**\* The corrections can be provided upon request. Long live open source and free access to information!**
 
 <h4>
 	<a href="#top">Back to Top</a>
@@ -337,13 +271,7 @@ Here you can find stuff that I do in my free-time...
 	</li>
 </ul>
 
-<h2>Photo Editing & more...</h2>
-<ul>
-	<li>
-		<h3>Christmas Market Jish 2017 Flyer</h3>
-		<a href="https://github.com/leolion3/University_Stuff/blob/master/Data/Christmas_2017.jpg?raw=true" target="_blank"><img src="https://github.com/leolion3/University_Stuff/blob/master/Data/Christmas_2017.jpg?raw=true" width="400" height="282"></a>
-	</li>
-</ul>
+<h2>Youtube and stuff...</h2>
 
 <img src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo.png" width="138" height="85">
 <ul>
