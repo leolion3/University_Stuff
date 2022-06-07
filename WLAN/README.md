@@ -13,8 +13,10 @@
 - Set the "Security Type" to "WPA2-Enterprise AES"
 - Set the "EAP Method" to "EAP-TTLS"
 - Set the "Authentication method" to "Microsoft CHAP Version 2 (MS-CHAP v2)"
-- Set "Your private identifier" to "eduroam@uni-bremen.de"
+- Set "Your private identifier" to "eduroam@uni-bremen.de" (*)
 - Save the network
+
+(*) If the private identifier is not available, you need to click save, then while connecting to the network click on Network Settings > Advanced Network Settings > Network Adapter Options > Double Click on the Wifi Adapter in the legacy Network Connections Menu > Wireless Properties > Security > Hit the "Settings" Button next to the Network Authentication Method > Check the "Enable identity privacy" option and enter "eduroam@uni-bremen.de" instead of "anonymous" and "wlan.radius.uni-bremen.de" under "Connect to these servers" > Save and exit, then log into the network again.
 
 ### Logging in
 
