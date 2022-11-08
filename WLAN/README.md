@@ -3,22 +3,25 @@
 
 ## Windows 8/10
 
-- Open `Settings` and navigate to `Network & Internet > Wi-Fi`
-- On the right, click on `Network and Sharing Center`
-- Click on `Set up a new connection or network`
-- Click on `Manually connect to a wireless network`
-- Set the `Network name` to `eduroam`
-- Set `Security type` to `WPA2-Enterprise`
-- Click `Next` and then on `Change connection settings`
-- Click on `Security`
-- Set `Choose a network authentication protocol` to `Microsoft: EAP-TTLS`
-- Click on `Settings` right next to it
-- Set the `Enable identity privacy` from `anonymous` to `eduroam@uni-bremen.de`
-- Set `Connect to these servers` to `wlan.radius.uni-bremen.de`
-- Under `Client authentication` set `Select a non-EAP method for authentication` to `Microsoft CHAP Version 2 (MS-CHAP v2)`
-- Exit by clicking `ok` and close all remaining windows.
-- Show the available Wifi networks and connect to `eduroam`
-- When prompted, enter your uni email and wifi password and hit connect
+- Open `Settings` and navigate to `Network & Internet > Wi-Fi`.
+- On the right, click on `Network and Sharing Center`.
+- Click on `Set up a new connection or network`.
+- Click on `Manually connect to a wireless network`.
+- Set the `Network name` to `eduroam`.
+- Set `Security type` to `WPA2-Enterprise`.
+- Click `Next` and then on `Change connection settings`.
+- Click on `Security`.
+- Set `Choose a network authentication protocol` to `Microsoft: EAP-TTLS`.
+- Click on `Settings` right next to it.
+- Set the `Enable identity privacy` from `anonymous` to `eduroam@uni-bremen.de`.
+- Set `Connect to these servers` to `wlan.radius.uni-bremen.de`.
+- Under `Client authentication` set `Select a non-EAP method for authentication` to `Microsoft CHAP Version 2 (MS-CHAP v2)`.
+- Exit by clicking `ok`.
+- Click on `Advanced settings`.
+- Tick the `Specify authentication mode` if it is unticked and set it to `User authentication`.
+- Click `Ok` and close all remaining windows.
+- Show the available Wifi networks and connect to `eduroam`.
+- When prompted, enter your uni email and wifi password and hit connect.
 
 ## Windows 11
 
