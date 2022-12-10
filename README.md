@@ -49,6 +49,21 @@ My name is Leonard Haddad.<br/> I am a 22 year old, Israeli-German Computer-Scie
 
 <hr>
 
+<h1 id="freebies">Freebies</h1>
+
+Did you know that as a student you receive a ton of useful benefits and free stuff from different vendors? Here you can find a couple of useful free things you get access to.
+
+<h2 id="azure">Microsoft Azure (and Windows licenses!)</h2>
+
+<details>
+  <summary>
+  	<b style="color: purple;">Get your free Azure benefits!</b>
+  </summary>
+  <p>
+     Microsoft offers a bunch of free software licenses, as well as hosting time on it's Azure servers. Just head over <a href="https://signup.azure.com/studentverification?offerType=1">here</a> and verify your student status. After doing so, you will find everything you have access to in your Azure's <a href="https://portal.azure.com">homepage</a>.
+  </p>
+</details>
+
 <h1 id="technical">Technical Stuff</h1>
 
 <h2 id="wifi">WLAN Uni-Bremen</h2>
