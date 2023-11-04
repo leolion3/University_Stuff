@@ -14,6 +14,7 @@
 - Set `Choose a network authentication protocol` to `Microsoft: EAP-TTLS`.
 - Click on `Settings` right next to it.
 - Set the `Enable identity privacy` from `anonymous` to `eduroam@uni-bremen.de`.
+- In the Certificate List, select the Certificate `T-Telesec GlobalRoot Class 2`.
 - Set `Connect to these servers` to `wlan.radius.uni-bremen.de`.
 - Under `Client authentication` set `Select a non-EAP method for authentication` to `Microsoft CHAP Version 2 (MS-CHAP v2)`.
 - Exit by clicking `ok`.
@@ -56,6 +57,10 @@
 
 ## Android
 
+- Just use the <a href="https://cat.eduroam.org/?idp=5112&profile=5448">eduroam CAT</a> App
+
+### Manual configuration
+- Download the CA Certificate from <a href="https://www.wlan.uni-bremen.de/T-TeleSec_GlobalRoot_Class_2.crt">here</a> and install as Certificate for WLAN/VPN.
 - Open Wi-Fi settings
 - Select `eduroam` and connect
 - Android will open the Network's security settings
@@ -63,7 +68,7 @@
 - Set the `EAP method` to `PEAP`
 - Set the `Identity` to `your_studip_name@uni-bremen.de`
 - Set the `Password` to your WLAN Password (See above)
-- Set `CA certificate` to `Don't validate`
+- Set `CA certificate` to the CA Certificate downloaded in the first step or to `Use System Certificates`
 - Set the `Domain` to `radius.wlan.uni-bremen.de`
 - Set the `Phase 2 authentication` to `MSCHAPV2`
 - Set the `Anonymous identity` to `eduroam@uni-bremen.de`
