@@ -61,6 +61,7 @@ Did you know that as a student you receive a ton of useful benefits and free stu
   </summary>
   <p>
      Microsoft offers a bunch of free software licenses, as well as hosting time on it's Azure servers. Just head over <a href="https://signup.azure.com/studentverification?offerType=1">here</a> and verify your student status. After doing so, you will find everything you have access to in your Azure's <a href="https://portal.azure.com">homepage</a>.
+     Alternatively, here's the <a href="https://portal.azure.com/#view/Microsoft_Azure_Education/EducationMenuBlade/~/software">direct link</a>.
   </p>
 </details>
 
