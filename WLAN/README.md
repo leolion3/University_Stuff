@@ -38,7 +38,7 @@
 - Set `Your private identifier` to `eduroam@uni-bremen.de` (*)
 - Save the network
 
-(*) If the private identifier is not available, you need to click save, then while connecting to the network click on `Network Settings > Advanced Network Settings > Network Adapter Options` then Double Click on the Wifi Adapter in the legacy Network Connections Menu and navigate to `Wireless Properties > Security` > Hit the `Settings` Button next to the `Network Authentication Method`. Check the `Enable identity privacy` option and enter `eduroam@uni-bremen.de` instead of `anonymous` and `wlan.radius.uni-bremen.de` under `Connect to these servers`. Save and exit, then log into the network again.
+(\*) If the private identifier is not available, you need to click save, then while connecting to the network click on `Network Settings > Advanced Network Settings > Network Adapter Options` then Double Click on the Wifi Adapter in the legacy Network Connections Menu and navigate to `Wireless Properties > Security` > Hit the `Settings` Button next to the `Network Authentication Method`. Check the `Enable identity privacy` option and enter `eduroam@uni-bremen.de` instead of `anonymous` and `wlan.radius.uni-bremen.de` under `Connect to these servers`. Save and exit, then log into the network again.
 
 ### Logging in
 
@@ -75,5 +75,16 @@
 - On some devices you might have to choose `TTLS` instead of `PEAP` in the `EAP Method`
 - You might have to set `CA certificate` to `Use system certificates` (or download the certificate manually)
 - You might have to set the `Online certificate status` to `Request status` or a different validation type
+
+## MacOS
+
+On MacOS (11+) the setup process is quite straightforward:
+
+- Download the [eduroam Configuration file](https://raw.githubusercontent.com/leolion3/University_Stuff/master/WLAN/data/eduroam-OS_X-Universitat_Bremen-eduroam_@uni-bremen.de.mobileconfig)
+- Double click the file to install the wifi profile. 
+	- It will prompt you for your username and password, enter the full email address as the username and your WiFi password (NOT your university password!).
+- If prompted for setting up the anonymity setting, set the anonymous username to `eduroam@uni-bremen.de` 
+- If prompted for the authentication server, enter `wlan.radius.uni-bremen.de`
+- Connect to the eduroam WiFi network.
 
 <a href="#uni-wifi-setup">Back to top</a>
