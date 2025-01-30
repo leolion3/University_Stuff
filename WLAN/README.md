@@ -14,7 +14,7 @@
 - Set `Choose a network authentication protocol` to `Microsoft: EAP-TTLS`.
 - Click on `Settings` right next to it.
 - Set the `Enable identity privacy` from `anonymous` to `eduroam@uni-bremen.de`.
-- Set `Connect to these servers` to `wlan.radius.uni-bremen.de`.
+- Set `Connect to these servers` to `radius.wlan.uni-bremen.de`.
 - Under `Client authentication` set `Select a non-EAP method for authentication` to `Microsoft CHAP Version 2 (MS-CHAP v2)`.
 - Exit by clicking `ok`.
 - Click on `Advanced settings`.
@@ -84,7 +84,7 @@ On MacOS (11+) the setup process is quite straightforward:
 - Double click the file to install the wifi profile. 
 	- It will prompt you for your username and password, enter the full email address as the username and your WiFi password (NOT your university password!).
 - If prompted for setting up the anonymity setting, set the anonymous username to `eduroam@uni-bremen.de` 
-- If prompted for the authentication server, enter `wlan.radius.uni-bremen.de`
+- If prompted for the authentication server, enter `radius.wlan.uni-bremen.de`
 - Connect to the eduroam WiFi network.
 
 <a href="#uni-wifi-setup">Back to top</a>
