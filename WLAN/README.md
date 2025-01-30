@@ -38,7 +38,7 @@
 - Set `Your private identifier` to `eduroam@uni-bremen.de` (*)
 - Save the network
 
-(\*) If the private identifier is not available, you need to click save, then while connecting to the network click on `Network Settings > Advanced Network Settings > Network Adapter Options` then Double Click on the Wifi Adapter in the legacy Network Connections Menu and navigate to `Wireless Properties > Security` > Hit the `Settings` Button next to the `Network Authentication Method`. Check the `Enable identity privacy` option and enter `eduroam@uni-bremen.de` instead of `anonymous` and `wlan.radius.uni-bremen.de` under `Connect to these servers`. Save and exit, then log into the network again.
+(\*) If the private identifier is not available, you need to click save, then while connecting to the network click on `Network Settings > Advanced Network Settings > Network Adapter Options` then Double Click on the Wifi Adapter in the legacy Network Connections Menu and navigate to `Wireless Properties > Security` > Hit the `Settings` Button next to the `Network Authentication Method`. Check the `Enable identity privacy` option and enter `eduroam@uni-bremen.de` instead of `anonymous` and `radius.wlan.uni-bremen.de` under `Connect to these servers`. Save and exit, then log into the network again.
 
 ### Logging in
 
@@ -51,7 +51,7 @@
 
 ### Troubleshooting
 
-- If required to enter a domain name on certain systems, enter `wlan.radius.uni-bremen.de`
+- If required to enter a domain name on certain systems, enter `radius.wlan.uni-bremen.de`
 - If the authentication method doesn't work, try PEAP with MS-CHAPv2 (Happens sometimes on Linux/Android)
 
 ## Android
